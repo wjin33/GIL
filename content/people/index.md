@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-09-08
 
 type: landing
 
@@ -12,8 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Researchers
-          - Grad Students
+          - Ph.D. Students
           - Administration
           - Visitors
           - Alumni
