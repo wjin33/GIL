@@ -1,0 +1,41 @@
+---
+title: 'SPH modeling of biomass granular flow: Theoretical implementation and experimental
+  validation'
+authors:
+- Yumeng Zhao
+- Wencheng Jin
+- Jordan Klinger
+- David C. Dayton
+- Sheng Dai
+date: '2023-05-01'
+publishDate: '2025-09-13T17:29:45.946341Z'
+publication_types:
+- article-journal
+publication: '*Powder Technology*'
+doi: 10.1016/j.powtec.2023.118625
+abstract: The commercialization of biomass-derived energy is impeded by flowability
+  challenges arising from the feeding and handling of granular biomass materials in
+  full-scale biorefineries. To overcome these obstacles, a robust and accurate model
+  to simulate the flow of granular biomass is indispensable. However, conventional
+  mesh-based numerical codes are limited by inherent mesh distortion in simulating
+  large deformation that commonly occurs in granular biomass handling. In this study,
+  we propose a graphics processing unit (GPU)-accelerated meshless Smoothed Particle
+  Hydrodynamics (SPH) code to model the flow of granular biomass materials. A modified
+  void ratio-based mass conversation, a hybrid particle-to-particle/surface frictional
+  boundary treatment, and a hypoplastic constitutive model are implemented. Four numerical
+  examples, an elastic block sliding on inclined planes, sand column collapse, Angle
+  of Repose, and axial compression tests for pine chips, were simulated using the
+  developed SPH code. The results demonstrate good agreement between numerical predictions
+  and analytical and experimental data for all four examples, validating the SPH code
+  and increasing confidence that it can be applied to simulate more complex granular
+  biomass handling processes, such as hopper feeding or auger conveyance.
+tags:
+- SPH
+- Angle of repose
+- Axial compression
+- Granular biomass materials
+- Granular flow modeling
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0032591023004096
+---
