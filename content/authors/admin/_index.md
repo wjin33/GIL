@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geomechanics, high performance computing
+bio: I am a computational scientist with in-depth knowledge in constitutive modeling of particulate/continuum materials, numerical modeling of fracture propagation, and computational multi-physics coupling. My research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Novel rock breakage and fracture for subsurface resource recovery
+  - Data-driven and physics-based multiphysics modeling in porous media
+  - Granular material flow characterization and modeling
 
 education:
   courses:

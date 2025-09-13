@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Geosystem Innovation Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Geosystem Innovation Laboratory** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
