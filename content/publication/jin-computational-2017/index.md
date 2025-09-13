@@ -1,0 +1,54 @@
+---
+title: Computational model coupling mode II discrete fracture propagation with continuum
+  damage zone evolution
+authors:
+- Wencheng Jin
+- Hao Xu
+- Chloé Arson
+- Seth Busetti
+date: '2017-01-01'
+publishDate: '2025-09-13T17:29:45.790040Z'
+publication_types:
+- article-journal
+publication: '*International Journal for Numerical and Analytical Methods in Geomechanics*'
+doi: https://doi.org/10.1002/nag.2553
+abstract: We propose a numerical method that couples a cohesive zone model (CZM) and
+  a finite element-based continuum damage mechanics (CDM) model. The CZM represents
+  a mode II macro-fracture, and CDM finite elements (FE) represent the damage zone
+  of the CZM. The coupled CZM/CDM model can capture the flow of energy that takes
+  place between the bulk material that forms the matrix and the macroscopic fracture
+  surfaces. The CDM model, which does not account for micro-crack interaction, is
+  calibrated against triaxial compression tests performed on Bakken shale, so as to
+  reproduce the stress/strain curve before the failure peak. Based on a comparison
+  with Kachanov's micro-mechanical model, we confirm that the critical micro-crack
+  density value equal to 0.3 reflects the point at which crack interaction cannot
+  be neglected. The CZM is assigned a pure mode II cohesive law that accounts for
+  the dependence of the shear strength and energy release rate on confining pressure.
+  The cohesive shear strength of the CZM is calibrated by calculating the shear stress
+  necessary to reach a CDM damage of 0.3 during a direct shear test. We find that
+  the shear cohesive strength of the CZM depends linearly on the confining pressure.
+  Triaxial compression tests are simulated, in which the shale sample is modeled as
+  an FE CDM continuum that contains a predefined thin cohesive zone representing the
+  idealized shear fracture plane. The shear energy release rate of the CZM is fitted
+  in order to match to the post-peak stress/strain curves obtained during experimental
+  tests performed on Bakken shale. We find that the energy release rate depends linearly
+  on the shear cohesive strength. We then use the calibrated shale rheology to simulate
+  the propagation of a meter-scale mode II fracture. Under low confining pressure,
+  the macroscopic crack (CZM) and its damaged zone (CDM) propagate simultaneously
+  (i.e., during the same loading increments). Under high confining pressure, the fracture
+  propagates in slip-friction, that is, the debonding of the cohesive zone alternates
+  with the propagation of continuum damage. The computational method is applicable
+  to a range of geological injection problems including hydraulic fracturing and fluid
+  storage and should be further enhanced by the addition of mode I and mixed mode
+  (I+II+III) propagation. Copyright © 2016 John Wiley & Sons, Ltd.
+tags:
+- cohesive zone model
+- continuum damage mechanics
+- energy dissipation
+- finite element method
+- fracture mechanics
+- upscaling
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.2553
+---
