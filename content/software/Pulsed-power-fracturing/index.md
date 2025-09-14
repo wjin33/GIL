@@ -1,15 +1,15 @@
 ---
 title: Electro-Hydraulic Fracturing
-date: 2025-6-1
+date: 2025-06-01
 
 authors:
 - Chunhui Zhao
 - Wencheng Jin
 
-summary: This software built on the open-source, parallel (Multiphysics Object-Oriented Simulation Environment) framework, using the finite-element method. It solves the momentum balance and mass conservation equations for hydraulic fracturing using numerical techniques such as the discontinuous Galerkin method, cohesive zone models, and multiphase, multicomponent fluid-flow simulations. This allows the software to simulate proppant-fluid mixture-driven fracture propagation, proppant transport and settling, and fracture closure with proppant compaction. ELK solves the coupled dynamic hydromechanical governing equations for electric shocking (i.e., pulsed-power-induced fracturing). A damage model and permeability and stiffness evolution constitutive laws have been incorporated to simulate multi-fracture propagation in saturated environments. 
+# summary: This software built on the open-source, parallel (Multiphysics Object-Oriented Simulation Environment) framework, using the finite-element method. It solves the momentum balance and mass conservation equations for hydraulic fracturing using numerical techniques such as the discontinuous Galerkin method, cohesive zone models, and multiphase, multicomponent fluid-flow simulations. This allows the software to simulate proppant-fluid mixture-driven fracture propagation, proppant transport and settling, and fracture closure with proppant compaction. ELK solves the coupled dynamic hydromechanical governing equations for electric shocking (i.e., pulsed-power-induced fracturing). A damage model and permeability and stiffness evolution constitutive laws have been incorporated to simulate multi-fracture propagation in saturated environments. 
 
 
-# abstract: This software built on the open-source, parallel (Multiphysics Object-Oriented Simulation Environment) framework, using the finite-element method. It solves the momentum balance and mass conservation equations for hydraulic fracturing using numerical techniques such as the discontinuous Galerkin method, cohesive zone models, and multiphase, multicomponent fluid-flow simulations. This allows the software to simulate proppant-fluid mixture-driven fracture propagation, proppant transport and settling, and fracture closure with proppant compaction. ELK solves the coupled dynamic hydromechanical governing equations for electric shocking (i.e., pulsed-power-induced fracturing). A damage model and permeability and stiffness evolution constitutive laws have been incorporated to simulate multi-fracture propagation in saturated environments. 
+abstract: This software built on the open-source, parallel (Multiphysics Object-Oriented Simulation Environment) framework, using the finite-element method. It solves the momentum balance and mass conservation equations for hydraulic fracturing using numerical techniques such as the discontinuous Galerkin method, cohesive zone models, and multiphase, multicomponent fluid-flow simulations. This allows the software to simulate proppant-fluid mixture-driven fracture propagation, proppant transport and settling, and fracture closure with proppant compaction. ELK solves the coupled dynamic hydromechanical governing equations for electric shocking (i.e., pulsed-power-induced fracturing). A damage model and permeability and stiffness evolution constitutive laws have been incorporated to simulate multi-fracture propagation in saturated environments. 
 
 # links:
 # - name: URL
@@ -43,7 +43,7 @@ projects:
 ---
 <!-- ![Hopper Flow](../../../images/hopper.gif) -->
 
-The software has the following features
+The software has the following features:
 - Hydraulic Fracturing
 - Proppant Transport
 - Pulsed Power Fracturing with HM coupling (phase-field & Nonlocal gradient-based damage)
