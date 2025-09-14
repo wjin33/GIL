@@ -1,5 +1,6 @@
 ---
 title: DualSPHysics-INL
+date: 2024-12-01
 
 authors:
 - Yumeng Zhao
@@ -39,6 +40,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+
 
 Features:
 - Hypoplastic model

@@ -14,32 +14,34 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Petroleum Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Texas A&M University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ph.D. student in Petroleum Engineering at Texas A&M University specializing in reservoir geomechanics, geothermal energy, and induced seismicity modeling. Research experience spans compressed air energy storage, and the development of nanomaterials for enhance oil recovery and drilling fluids. I am enthusiastic about advancing sustainable energy solutions through geomechanical analysis, numerical modeling, and innovative problem-solving. Currently, I serve as a Research Assistant for the Utah FORGE project, focusing on large-scale numerical simulation and microseismic data analysis.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reservoir Geomechanics
+  - High-Performance Computing (HPC)
+  - Enhanced Geothermal Systems (EGS) 
+  - Hydraulic Fracturing
+  - Induced Seismicity
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Petroleum Engineering
+      institution: Texas A&M University
+      year: Present
+    - course: M.Sc. in Hydrocarbons Engineering
+      institution: Industrial University of Santander
+      year: 2024
+    - course: B.Sc. in Petroleum Engineering
+      institution: Industrial University of Santander
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +50,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:nicolas.cardenas@tamu.edu'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/nicolas-cardenas-acevedo-2208126/
+  - icon: 
+    icon_pack: 
+    link: 
+  - icon: 
+    icon_pack: 
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +75,5 @@ user_groups:
   - Ph.D. Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicolas Cardenas Acevedo is a Ph.D. student in Petroleum Engineering at Texas A&M University. His research focuses on induced seismicity modeling, reservoir geomechanics, and geothermal energy development. He has prior experience in underwater energy storage and nanomaterials applied to drilling fluids and enhanced oil recovery. He is an active member of ARMA and SPE, and currently serves as Event Director for the TAMU-ARMA Student Chapter.
+
