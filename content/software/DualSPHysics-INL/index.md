@@ -6,9 +6,9 @@ authors:
 - Yumeng Zhao
 - Wencheng Jin
 
-summary: DualSPHysics-INL is an extended adaptation of the DualSPHysics open-source Smoothed Particle Hydrodynamics (SPH) simulation software based on DualSPHysics release version 5.0.1. Source code was modified from src_mphase/DSPH_v5.0_NNewtonian.  While DualSPHysics was developed for the simulation of fluid flow, DualSPHysics-INL was developed to simulate the flow of granular materials, such as soils and biomass feedstocks. In DualSPHysics-INL, a critical state soil mechanics based G-B hypoplastic constitutive model (Gudehus & Bauer) was adopted that has the capability to simulate granular materials of a wide range of mechanical responses. The code adopts a momentum-based boundary condition that is able to sustain impact loading without particles leaking to the outside of the boundaries and can achieve a full range of frictional conditions, including free-slip and no-slip. The code adopts GPU-acceleration, enabling fast computation for complex problems. The following examples provide a glance of applications that the DualSPHysics-INL can simulate!
+summary: DualSPHysics-INL is a customized version of DualSPHysics 5.0.1, adapted from src_mphase/DSPH_v5.0_NNewtonian to simulate granular materials like soils and biomass rather than fluids. It incorporates a G-B hypoplastic constitutive model (Gudehus & Bauer) to capture a wide range of granular mechanical behaviors and uses momentum-based boundary conditions that prevent particle leakage and handle friction from free-slip to no-slip. GPU acceleration enables efficient computation for complex simulations.
 
-abstract: DualSPHysics-INL is an extended adaptation of the DualSPHysics open-source Smoothed Particle Hydrodynamics (SPH) simulation software based on DualSPHysics release version 5.0.1. Source code was modified from src_mphase/DSPH_v5.0_NNewtonian.  While DualSPHysics was developed for the simulation of fluid flow, DualSPHysics-INL was developed to simulate the flow of granular materials, such as soils and biomass feedstocks. In DualSPHysics-INL, a critical state soil mechanics based G-B hypoplastic constitutive model (Gudehus & Bauer) was adopted that has the capability to simulate granular materials of a wide range of mechanical responses. The code adopts a momentum-based boundary condition that is able to sustain impact loading without particles leaking to the outside of the boundaries and can achieve a full range of frictional conditions, including free-slip and no-slip. The code adopts GPU-acceleration, enabling fast computation for complex problems. The following examples provide a glance of applications that the DualSPHysics-INL can simulate!
+abstract: DualSPHysics-INL is an extended adaptation of the DualSPHysics open-source Smoothed Particle Hydrodynamics (SPH) simulation software based on DualSPHysics release version 5.0.1. Source code was modified from src_mphase/DSPH_v5.0_NNewtonian.  While DualSPHysics was developed for the simulation of fluid flow, DualSPHysics-INL was developed to simulate the flow of granular materials, such as soils and biomass feedstocks. In DualSPHysics-INL, a critical state soil mechanics based G-B hypoplastic constitutive model (Gudehus & Bauer) was adopted that has the capability to simulate granular materials of a wide range of mechanical responses. The code adopts a momentum-based boundary condition that is able to sustain impact loading without particles leaking to the outside of the boundaries and can achieve a full range of frictional conditions, including free-slip and no-slip. The code adopts GPU-acceleration, enabling fast computation for complex problems.
 
 # links:
 # - name: URL
@@ -40,7 +40,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-![Hopper Flow](../../../images/hopper.gif)
+<!-- ![Hopper Flow](../../../images/hopper.gif) -->
 
 The software enhances the multiphase DualPhysics with particulate material constitutive models and novel boundary conditions to simulate granular flow physics. The enhancement includes:
 - Hypoplastic constitutive model
