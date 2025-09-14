@@ -42,5 +42,6 @@ projects:
 <!-- ![Hopper Flow](../../../images/hopper.gif) -->
 
 The software has the following features:
+- Energy based arc length control for mechanical solver
 - Fully coupled fluid flow within matrix and along fracture with mechanical deformation
 - Multiscale fracture propagation by coupling nonlocal damage with PPR cohesive zone model
