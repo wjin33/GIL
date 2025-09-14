@@ -40,11 +40,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+![Hopper Flow](../../../images/hopper.gif)
 
-
-
-Features:
-- Hypoplastic model
-- Particle-particle interpolation-based non-slip boundary condition
-- Particle-surface frictional boundary condition
+The software enhances the multiphase DualPhysics with particulate material constitutive models and novel boundary conditions to simulate granular flow physics. The enhancement includes:
+- Hypoplastic constitutive model
+- Frictional, free-slip and no-slip boundary condition
 - GPU accelerated simulation
