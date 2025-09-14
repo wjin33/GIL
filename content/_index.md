@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-09-14
 type: landing
 
 sections:
@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        The **Geosystem Innovation Laboratory** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Geosystem Innovation Laboratory (GIL) at the Harold Vance Department of Petroleum Engineering, Texas A&M University focus on 1) developing innovative stimulation technologies in subsurface for resource extraction, 2) physics-based and data-driven simulation of multiphysics process in fractured porous media, and 3) granular material characterization and modeling. 
   
   - block: collection
     content:
