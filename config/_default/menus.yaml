@@ -20,7 +20,7 @@ main:
     url: software
     weight: 50  
   - name: Events
-    url: event
+    url: post
     weight: 60
   - name: Contact
     url: contact
