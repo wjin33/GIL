@@ -28,12 +28,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Hydraulic fracturing
+        content: 'Mesosclae Damage - marcoscale fracture transition'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Hydraulic_Fracking.png
             filters:
               brightness: 0.5
           position: center
