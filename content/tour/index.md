@@ -13,23 +13,24 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: RTES.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+
+      - title: Pulsed Power Fracturing
+        content: 'Simulate pore-dynamic fracture propagation in saturated rock!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: pulsed_fracture.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Hydraulic fracturing
-        content: 'Mesosclae Damage - marcoscale fracture transition'
+      - title: Hydraulic Fracturing
+        content: 'Mesoscale damage - marcoscale fracture transition'
         align: right
         background:
           image:
@@ -38,11 +39,41 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      - title: Proppant Transport
+        content: 'Modeling proppant transport and settling with proppagting fractures'
+        align: left
+        background:
+          image:
+            filename: proppant_transport.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: Induced Seismicity
+        content: 'Investigating the generation mechanism of post-injection induced seismicity'
+        align: right
+        background:
+          image:
+            filename: induced_seismicity.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333' 
+      - title: Granular flow
+        content: 'modeling unconventional granular flow'
+        align: right
+        background:
+          image:
+            filename: hopper.gif
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'        
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
