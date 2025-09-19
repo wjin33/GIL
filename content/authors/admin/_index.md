@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computational scientist with in-depth knowledge in constitutive modeling of particulate/continuum materials, numerical modeling of fracture propagation, and computational multi-physics coupling. My research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
+bio: Dr. Wencheng Jin is a Assistant professor at the Harold Vance Department of Petroleum Engieering, Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. His research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
 
 interests:
   - Novel rock breakage and fracture for subsurface resource recovery
@@ -76,4 +76,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Wencheng Jin is a Assistant professor at the Harold Vance Department of Petroleum Engieering, Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous media, and granular material flow characterization and modeling.
+
