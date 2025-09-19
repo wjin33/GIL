@@ -13,12 +13,11 @@ sections:
         align: center
         background:
           image:
-            filename: RTES.jpg
+            filename: RTES.png
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-
       - title: Pulsed Power Fracturing
         content: 'Simulate pore-dynamic fracture propagation in saturated rock!'
         align: left
