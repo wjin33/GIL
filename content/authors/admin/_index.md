@@ -9,6 +9,10 @@ last_name: Jin
 # Is this the primary user of the site?
 superuser: true
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Role/position
 role: Assistant Professor of Petroleum Engineering
 

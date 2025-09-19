@@ -17,10 +17,10 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          color: '#0a0a0aff'
       - title: Pulsed Power Fracturing
-        content: 'Simulate pore-dynamic fracture propagation in saturated rock!'
-        align: left
+        content: 'Simulate poro-dynamic fracture propagation in day and saturated rock!'
+        align: right
         background:
           image:
             filename: pulsed_fracture.png
@@ -29,8 +29,8 @@ sections:
           position: center
           color: '#555'
       - title: Hydraulic Fracturing
-        content: 'Mesoscale damage - marcoscale fracture transition'
-        align: right
+        content: 'Mesoscale damage to marcoscale fracture transition'
+        align: left
         background:
           image:
             filename: Hydraulic_Fracking.png
@@ -40,7 +40,7 @@ sections:
           color: '#333'
       - title: Proppant Transport
         content: 'Modeling proppant transport and settling with proppagting fractures'
-        align: left
+        align: center
         background:
           image:
             filename: proppant_transport.png
@@ -58,8 +58,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333' 
-      - title: Granular flow
-        content: 'modeling unconventional granular flow'
+      - title: Granular Flow
+        content: 'Modeling unconventional granular flow'
         align: right
         background:
           image:
