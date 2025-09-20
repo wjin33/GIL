@@ -19,7 +19,7 @@ main:
   - name: Software
     url: software
     weight: 50  
-  - name: Events
+  - name: Latest News
     url: post
     weight: 60
   - name: Contact
