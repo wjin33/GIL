@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-09-20
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to GIL
+        content: Take a look at what we have been working on...
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#0a0a0aff'
       - title: Pulsed Power Fracturing
-        content: 'Simulate poro-dynamic fracture propagation in day and saturated rock!'
+        content: 'Simulating poro-dynamic fracture propagation in dry and saturated rock!'
         align: right
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Hydraulic Fracturing
-        content: 'Mesoscale damage to marcoscale fracture transition'
+        content: 'Capturing meso-scale damage to marco-scale fracture transition'
         align: left
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#333'
       - title: Proppant Transport
-        content: 'Modeling proppant transport and settling with proppagting fractures'
+        content: 'Modeling proppant transport and settling within proppagting fractures'
         align: center
         background:
           image:
@@ -59,7 +59,7 @@ sections:
           position: center
           color: '#333' 
       - title: Granular Flow
-        content: 'Modeling unconventional granular flow'
+        content: 'Realizing shear band evolution for unconventional granular flow'
         align: right
         background:
           image:
