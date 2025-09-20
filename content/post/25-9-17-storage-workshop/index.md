@@ -1,6 +1,6 @@
 ---
 title: SPE/ARMA Subsurface Storage Workshop
-date: 2025-9-17
+date: 2025-09-17
 image:
   focal_point: 'top'
 ---

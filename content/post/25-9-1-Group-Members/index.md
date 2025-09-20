@@ -1,6 +1,6 @@
 ---
 title: Nicolas and Rasul Joined GIL
-date: 2025-8-24
+date: 2025-08-24
 image:
   focal_point: 'top'
 ---
