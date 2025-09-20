@@ -1,6 +1,8 @@
 ---
 title: SPE/ARMA Subsurface Storage Workshop
 date: 2025-9-17
+image:
+  focal_point: 'top'
 ---
 
 Dr. Wencheng Jin Chaired the Innovation and Challenges in Storage Technologies session in the SPE/ARMA Workshop: Subsurface Storage from Characterization to Implementation
