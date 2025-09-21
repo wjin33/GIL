@@ -69,3 +69,9 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 ---
+
+
+### Graduate Program Application: 
+[https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html)
+
+[https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html](https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html)

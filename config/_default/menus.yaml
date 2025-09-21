@@ -22,6 +22,9 @@ main:
   - name: Latest News
     url: post
     weight: 60
+  - name: Teaching
+    url: teaching
+    weight: 70  
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80
