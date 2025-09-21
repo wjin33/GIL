@@ -6,10 +6,6 @@ title: Wencheng Jin
 first_name: Wencheng
 last_name: Jin
 
-# Username (this should match the folder name)
-authors:
-  - Jin
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -22,7 +18,7 @@ organizations:
     url: 'https://engineering.tamu.edu/petroleum/profiles/jin-wencheng.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Wencheng Jin is a Assistant professor at the Harold Vance Department of Petroleum Engieering, Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. His research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
+bio: My research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. My research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
 
 interests:
   - Novel rock breakage and fracture for subsurface resource recovery
@@ -35,10 +31,10 @@ education:
       institution: Georgia Institute of Technology
       year: 2018
     - course: MEng in Engineering Mechanics
-      institution: Sichuan Unversity
+      institution: Sichuan University
       year: 2014
     - course: BSc in Engineering Mechanics
-      institution: Sichuan Unversity
+      institution: Sichuan University
       year: 2011
 
 # Social/Academic Networking
@@ -49,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:wencheng.jin@tamu.edu'
-  - icon: LinkedIn
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/wencheng-jin-09795980/
   - icon: google-scholar
@@ -77,4 +73,3 @@ user_groups:
 ---
 
 Dr. Wencheng Jin is a Assistant professor at the Harold Vance Department of Petroleum Engieering, Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. His research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
-
