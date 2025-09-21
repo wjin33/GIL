@@ -14,10 +14,10 @@ sections:
        
        If you are strongly interested in our research, you are invited to contact us and share your CV and (research) plans!
       
-       Graduate Program Application: 
-       [https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html)
+      #  Graduate Program Application: 
+      #  [https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html)
 
-       [https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html](https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html)
+      #  [https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html](https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html)
       email: wencheng.jin@tamu.edu
       phone: 979-458-7672
       address:
