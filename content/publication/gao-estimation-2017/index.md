@@ -6,7 +6,7 @@ authors:
 - L. Z. Xie
 - H. P. Xie
 - B. He
-- W. C. Jin
+- W. Jin
 - F. Li
 - Z. P. Yang
 - Y. Z. Sun

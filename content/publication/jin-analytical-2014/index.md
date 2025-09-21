@@ -1,7 +1,7 @@
 ---
 title: Analytical expressions for the size distribution function of elliptical joints
 authors:
-- Wecheng Jin
+- Wencheng Jin
 - Mingzhong Gao
 - Ru Zhang
 - Guoqiang Zhang
