@@ -1,5 +1,5 @@
 ---
-title: Nonconventional granularmaterial flow modeling
+title: Nonconventional granular material flow modeling
 date: 2020-12-01
 ---
 

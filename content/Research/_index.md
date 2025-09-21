@@ -6,8 +6,6 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'GIL focuses on cross-scale multi-physics problems centered on geomechanics'
+  image: 'welcome.jpg'
 ---
-
-Providing  a few examples
