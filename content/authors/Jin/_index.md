@@ -6,12 +6,12 @@ title: Wencheng Jin
 first_name: Wencheng
 last_name: Jin
 
-# Is this the primary user of the site?
-superuser: true
-
 # Username (this should match the folder name)
 authors:
-  - admin
+  - Jin
+
+# Is this the primary user of the site?
+superuser: true
 
 # Role/position
 role: Assistant Professor of Petroleum Engineering
@@ -19,7 +19,7 @@ role: Assistant Professor of Petroleum Engineering
 # Organizations/Affiliations
 organizations:
   - name: Texas A&M University
-    url: ''
+    url: 'https://engineering.tamu.edu/petroleum/profiles/jin-wencheng.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Wencheng Jin is a Assistant professor at the Harold Vance Department of Petroleum Engieering, Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. His research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
@@ -68,7 +68,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

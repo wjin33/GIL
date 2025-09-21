@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2025-10-01
+date: 2025-09-20
 
 type: landing
 
@@ -25,19 +25,8 @@ sections:
       coordinates:
         latitude: '30.6194035908471'
         longitude: '-96.3389786850971'
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
-      # appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
       # Automatically link email and phone or display as text?
-      # autolink: true
-    
+      autolink: true
       # Email form provider
       form:
         provider: netlify
@@ -49,25 +38,25 @@ sections:
     design:
       columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: contact.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
 
 

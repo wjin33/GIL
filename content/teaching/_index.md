@@ -10,4 +10,4 @@ banner:
   image: 'teaching.jpg'
 ---
 
-PETE 311 Reservior Petrophysics [Syllabus](Petrophysics_Syllabus_Fall_25_Jin.pdf)
+PETE 311 Reservior Petrophysics ([Syllabus](Petrophysics_Syllabus_Fall_25_Jin.pdf))
