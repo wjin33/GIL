@@ -49,7 +49,7 @@ taxonomies:
 markup:
   _merge: deep
 related:
-  threshold: 80
+  threshold: 100
   includeNewer: true
   toLower: true
   indices:

@@ -13,7 +13,6 @@ sections:
       user_groups:
           - Principal Investigator
           - Ph.D. Students
-          - Administration
           - Visitors
           - Alumni
       sort_by: Params.last_name
