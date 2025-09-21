@@ -1,18 +1,17 @@
 ---
-title: Hydraulic Fracturing
-date: 2018-05-01
+title: Geothermal Energy Storage
+date: 2024-05-01
 ---
 
-Hydraulic fracturing has revolutionized the oil and gas industry, and decades of field practice have enabled a deep understanding of many aspects of the process. However, several key phenomena remain insufficiently addressed:
-1. The conventional mode-I fracture propagation mechanism does not explain the observed generation of fracture swarms;
-2. Modeling of fracture growth coupled with proppant transport and settlement requires significant improvement;
-3. Fracture closure during shut-in and flowback periods—and the resulting residual fracture aperture—are still not well characterized.
-
-Beyond the inherent complexity of these multiphysics processes, achieving high-fidelity modeling of hydraulic fracturing demands extensive computational resources. Our group is developing advanced computational tools, incorporating refined physical mechanisms and GPU-accelerated simulations, to tackle these challenges. 
+Geothermal battery energy storage, using geological formations to store energy in the form of thermally heated brine, has been proposed as a solution to balance the increasing and intermittent nature of renewable energy generation and to enhance the stability of U.S. power grids. This concept has already been successfully applied for building heating and data center cooling by storing excess heat or cold during periods of low demand and recovering it during peak demand. This research aims to:
+- Identify suitable subsurface formations for geothermal energy storage,
+- Quantify storage efficiency within an integrated energy storage framework,
+- Develop strategies to mitigate risks associated with subsurface system failures.
 
 <!--more-->
 
 ##### Related publications
 
-1. W. Jin, C. Arson, (2019). [Fluid-driven transition from damage to fracture in anisotropic porous media: a multi-scale XFEM approach](https://wjin33.github.io/GIL/publication/jin-fluid-driven-2020/).  Acta Geotechnica, 15(1), 113-144.
-2. Jin, W., Zhao, C., Pham, V. V., Yang, M., Egert, R., McLing, T., ... & Villamor-Lora, R. (2025, June). [ELK: a MOOSE framework based computational tool for modeling electro-hydraulic fracturing](https://wjin33.github.io/GIL/publication/jin-elk-2025/). In ARMA US Rock Mechanics/Geomechanics Symposium (p. D021S009R002). ARMA.
+1. Jin, W., Atkinson, T., Doughty, C., Neupane, G., Spycher, N., McLing, T., ... & Podgorney, R. (2022). [Machine-learning-assisted high-temperature reservoir thermal energy storage optimization](https://wjin33.github.io/GIL/publication/jin-machine-learning-assisted-2022/). Renewable Energy, 197,  384-397
+2. Jin, W., Atkinson, T., Neupane, G., McLing, T., Doughty, C., Spycher, N., ... & Smith, R. (2022, June). [Influence of mechanical deformation and mineral dissolution/precipitation on reservoir thermal energy storage](https://wjin33.github.io/GIL/publication/jin-influence-2022/). In ARMA US Rock Mechanics/Geomechanics Symposium (pp. ARMA-2022). ARMA.
+3. Oh, H., Jin, W., Peng, P., Winick, J. A., Sickinger, D., Sartor, D., ... & Dobson, P. (2025). [Techno-economic performance of reservoir thermal energy storage for data center cooling system](https://wjin33.github.io/GIL/publication/oh-techno-economic-2025/). Applied Energy, 391, 125858.
