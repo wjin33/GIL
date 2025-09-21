@@ -25,7 +25,6 @@ sections:
       coordinates:
         latitude: '30.6194035908471'
         longitude: '-96.3389786850971'
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -39,16 +38,16 @@ sections:
       # Automatically link email and phone or display as text?
       # autolink: true
     
-    #   # Email form provider
-    #   form:
-    #     provider: netlify
-    #     formspree:
-    #       id:
-    #     netlify:
-    #       # Enable CAPTCHA challenge to reduce spam?
-    #       captcha: false
-    # design:
-    #   columns: '1'
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
 
   # - block: markdown
   #   content:

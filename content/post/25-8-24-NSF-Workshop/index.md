@@ -1,5 +1,5 @@
 ---
-title: NSF Workshop on Fractured Rock Mass
+title: NSF Workshop on Fractured Rockmass
 date: 2025-08-24
 image:
   focal_point: 'top'
