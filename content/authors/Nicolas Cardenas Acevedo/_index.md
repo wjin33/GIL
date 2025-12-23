@@ -8,7 +8,7 @@ last_name: Cardenas Acevedo
 
 # Username (this should match the folder name)
 authors:
-  - Nicolas
+  - Nicolas Cardenas Acevedo
 
 # Is this the primary user of the site?
 superuser: false
