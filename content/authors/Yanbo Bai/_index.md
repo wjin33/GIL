@@ -75,5 +75,6 @@ user_groups:
   - Ph.D. Students
 ---
 
+Yanbo is a Ph.D. student in Petroleum Engineering at Texas A&M University, focused on fundamental investigations of electrowetting, electroosmosis, and electromigration in porous and fractured geomaterials. My research integrates customized microfluidic platforms and electrically controlled core-flooding experiments with in situ micro-CT characterization to elucidate coupled electro-hydro-mechanical-chemical processes. These efforts target applications in mineral in situ mining, electrically enhanced oil recovery (EEOR), and critical mineral recovery from shale formations. Prior to joining Texas A&M, my research centered on microwave-assisted hard rock drilling technologies. This work encompassed multiphysics field modeling, multiscale mechanical property characterization, and upscaling analyses, as well as studies of rockburst tendency and damage distribution in hard rock subjected to microwave-induced fracturing.
 
 
