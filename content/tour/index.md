@@ -29,17 +29,17 @@ sections:
           position: center
           color: '#555'
       - title: Hydraulic Fracturing
-        content: 'Capturing meso-scale damage to marco-scale fracture transition'
+        content: 'Capturing the transition from meso-scale damage to macro-scale fracture propagation'
         align: left
         background:
           image:
-            filename: Hydraulic_Fracking.png
+            filename: hydraulic_fracking.png
             filters:
               brightness: 0.5
           position: center
           color: '#333'
       - title: Proppant Transport
-        content: 'Modeling proppant transport and settling within proppagting fractures'
+        content: 'Modeling proppant transport and settling within propagating fractures'
         align: center
         background:
           image:

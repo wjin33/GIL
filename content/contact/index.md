@@ -8,11 +8,12 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: Join us!
+      text: |
+        Join us.
 
-       Join GIL as a graduate, undergraduate, postdoc, or visiting scholar. We always welcome highly motivated researchers who want to study sustainable energy and resource recovery from the subsurface. 
-       
-       If you are strongly interested in our research, you are invited to contact us and share your CV and (research) plans!
+        GIL welcomes graduate students, undergraduate researchers, postdocs, and visiting scholars interested in sustainable energy, resource recovery, and subsurface geomechanics.
+
+        If our research aligns with your interests, please reach out and share your CV and a short note about your background and research goals.
       
       #  Graduate Program Application: 
       #  [https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html)
@@ -63,4 +64,3 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 ---
-

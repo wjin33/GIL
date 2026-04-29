@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        The Geosystem Innovation Laboratory (GIL) at the Harold Vance Department of Petroleum Engineering, Texas A&M University focus on 1) developing innovative stimulation technologies in subsurface for resource extraction, 2) physics-based and data-driven simulation of multiphysics process in fractured porous media, and 3) granular material characterization and modeling. 
+        The Geosystem Innovation Laboratory (GIL) in the Harold Vance Department of Petroleum Engineering at Texas A&M University focuses on: (1) innovative stimulation technologies for subsurface resource extraction, (2) physics-based and data-driven simulation of multiphysics processes in fractured porous media, and (3) granular material characterization and modeling.
   
   - block: collection
     content:
@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publication
+      title: Latest Publications
       text: ""
       count: 3
       filters:
@@ -73,6 +73,8 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+
+        Explore our [research](./research/), browse our [software](./software/), or [contact us](./contact/) about collaboration opportunities.
     design:
       columns: '1'
 ---

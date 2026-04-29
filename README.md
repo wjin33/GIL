@@ -1,124 +1,79 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# Geosystem Innovation Laboratory Website
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+This repository contains the source for the Geosystem Innovation Laboratory (GIL) website built with Hugo Blox/Hugo.
 
-<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
+## Overview
 
-<p align="center">
-  <strong>Your unfair advantage in academia and tech.</strong><br/>
-  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
-</p>
+The site includes:
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>✨ Upgrade to Pro</b></a>
-</p>
+- Lab overview and homepage content
+- Research area pages
+- Team member profiles
+- Publications imported as individual content entries
+- Software/project pages
+- Teaching materials
+- News posts and announcements
 
-<p align="center">
-  Trusted by 250,000+ researchers, students, and educators worldwide.
-</p>
+## Repository Structure
 
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb">
-    <img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord">
-  </a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv">
-    <img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars">
-  </a>
-</p>
+- `content/`: Site content in Markdown
+- `content/authors/`: People profiles used by the People page
+- `content/publication/`: Publication entries
+- `content/post/`: News posts
+- `content/research/`: Research area pages
+- `content/software/`: Software and code project pages
+- `assets/media/`: Images and media used across the site
+- `config/_default/`: Hugo and Hugo Blox configuration
 
----
+## Local Development
 
-## Your Career Starts Here
+Prerequisites:
 
-The Academic CV template is designed for impact. Whether you're an AI researcher, a recent graduate, or a seasoned professor, this is the last resumé you'll ever need.
+- Hugo Extended
 
-- **✍️ Showcase Your Expertise:** Easily write content with Markdown, Jupyter, or RStudio. Display your publications, talks, and projects in a stunning, professional layout.
-- **📈 Boost Your Citations:** Automatic BibTeX import and SEO-optimized pages mean your work gets discovered more easily, increasing your research impact.
-- **💼 Land Your Dream Job:** Create a memorable online presence that impresses recruiters from top tech firms and prestigious universities.
-- **🚀 Launch in Minutes:** No coding required. The Hugo Blox Builder lets you customize everything with drag-and-drop sections.
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" alt="Deploy this template" width="400">
-  </a>
-</p>
-
----
-
-## Level Up with Pro Templates
-
-Ready to take your career to the next level? Our Pro templates offer exclusive designs and features to help you stand out even more.
-
-<!-- <p align="center">
-  <img src="" alt="Free vs Pro templates">
-</p>-->
-
-| Feature              | Academic CV (Free)       | Academic CV Pro & Resumé Pro     |
-| -------------------- | ------------------------ | -------------------------------- |
-| **Design**           | Professional & clean     | **Exclusive premium designs**    |
-| **Layouts**          | Standard resumé sections | **Advanced layouts & timelines** |
-| **Call to Action**   | Simple contact link      | **Prominent CTA buttons**        |
-| **First Impression** | Strong                   | **Unforgettable**                |
-
-<br/>
-<p align="center">
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Get the Pro Pass</b></a> — Includes all Pro templates for a one-time price.<br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
-
----
-
-## What Researchers Say
-
-> “Hugo Blox saved me 40+ hours on my lab site. BibTeX integration auto-updates publications — **our citations are up 3×**.”
-> — **Dr. Sarah Yang**, AI Researcher
-
----
-
-## Get Started in Minutes
-
-### Recommended (Fastest)
-
-Deploy your site to GitHub Pages in just 60 seconds with our browser-based starter.
-
-👉 <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>Start with the Academic CV Template</b></a>
-
-### Prefer the Command Line?
-
-Use the local quickstart:
+Run the site locally:
 
 ```bash
-# 1. Install Hugo Extended → https://docs.hugoblox.com/getting-started/install-hugo/
-# 2. Clone this starter
-git clone https://github.com/HugoBlox/theme-academic-cv my-site
-cd my-site
-
-# 3. Run locally
-pnpm install && hugo server
+hugo server
 ```
 
-For more guides, visit our documentation at **https://docs.hugoblox.com/**.
+Build the production site:
 
----
+```bash
+hugo --gc --minify
+```
 
-## Join the Community
+## Common Updates
 
-Join thousands of creators in our vibrant community to ask questions, share your work, and help us improve.
+Add a news post:
 
-- 💬 <a href="https://discord.gg/z8wNYzb">Discord</a>
-- 📚 <a href="https://docs.hugoblox.com/?utm_source=github&utm_medium=readme">Docs & Guides</a>
-- 🐦 <a href="https://twitter.com/GetResearchDev">X / Twitter</a>
-- ⭐ <a href="https://github.com/HugoBlox/hugo-blox-builder">Star on GitHub</a>
+1. Create a new folder under `content/post/`.
+2. Add an `index.md` file and an optional `featured.*` image.
 
----
+Add a team member:
 
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
+1. Create a folder under `content/authors/` named after the person.
+2. Add `_index.md` with their profile metadata.
+3. Add `avatar.jpg`, `avatar.png`, or similar.
+4. Set `user_groups` so they appear in the correct section on the People page.
 
-<!--START_SECTION:news-->
-<!--END_SECTION:news-->
+Add a publication:
+
+1. Create a new folder under `content/publication/`.
+2. Add `index.md`.
+3. Add `cite.bib` if you want a BibTeX entry on the publication page.
+
+Update homepage sections:
+
+- Edit `content/_index.md`
+
+Update navigation and site settings:
+
+- Edit `config/_default/menus.yaml`
+- Edit `config/_default/params.yaml`
+- Edit `config/_default/hugo.yaml`
+
+## Notes
+
+- The repository currently assumes standard Hugo content organization with Hugo Blox blocks.
+- If you deploy through GitHub Pages or Netlify, make sure the configured `baseURL` matches the final public URL.
