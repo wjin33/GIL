@@ -5,11 +5,8 @@
 
 main:
   - name: Home
-    url: /
-    weight: 10
-  - name: Tour
     url: tour
-    weight: 15
+    weight: 10
   - name: Research
     url: research
     weight: 20
