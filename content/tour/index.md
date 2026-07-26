@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: hydraulic_fracking.png
+            filename: Hydraulic_Fracking.png
             filters:
               brightness: 0.5
           position: center
