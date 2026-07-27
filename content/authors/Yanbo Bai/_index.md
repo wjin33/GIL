@@ -6,6 +6,9 @@ title: Yanbo Bai
 first_name: Yanbo
 last_name: Bai
 
+# Flat People page order: Ph.D. students, alphabetical
+people_order: 31
+
 # Username (this should match the folder name)
 authors:
   - Yanbo Bai
@@ -66,8 +69,7 @@ email: 'yanbobai@tamu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - GIL Team
 ---
 
 Yanbo is a Ph.D. student in Petroleum Engineering at Texas A&M University focused on electrowetting, electroosmosis, and electromigration in porous and fractured geomaterials. His research integrates customized microfluidic platforms and electrically controlled core-flooding experiments with in situ micro-CT characterization to study coupled electro-hydro-mechanical-chemical processes. These efforts target mineral in situ mining, electrically enhanced oil recovery, and critical mineral recovery from shale formations. Before joining Texas A&M, his research centered on microwave-assisted hard-rock drilling, including multiphysics modeling, multiscale mechanical characterization, upscaling, rockburst tendency, and damage evolution.
-

@@ -7,3 +7,682 @@
 .cta-group {
   justify-content: center;
 }
+
+// GIL visual system
+$gil-maroon: #500000;
+$gil-maroon-dark: #2d0000;
+$gil-ink: #20242a;
+$gil-muted: #59616a;
+$gil-sand: #f7f5f2;
+
+.gil-hero {
+  overflow: hidden;
+
+  .hero-title {
+    color: $gil-ink;
+    font-size: clamp(2.35rem, 5vw, 4rem);
+    letter-spacing: -0.035em;
+    line-height: 1.05;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-lead {
+    color: $gil-muted;
+    font-size: 1.08rem;
+    line-height: 1.7;
+
+    p:first-child {
+      color: $gil-maroon;
+      font-size: clamp(1.3rem, 2.2vw, 1.65rem);
+      font-weight: 700;
+      line-height: 1.35;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .hero-media img {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.12);
+    border-radius: 1.25rem;
+    box-shadow: 0 1.5rem 3.5rem rgba(33, 25, 23, 0.16);
+    height: auto;
+    width: 100%;
+  }
+
+  .btn-primary {
+    background-color: $gil-maroon;
+    border-color: $gil-maroon;
+    box-shadow: 0 0.45rem 1rem rgba($gil-maroon, 0.2);
+
+    &:hover,
+    &:focus {
+      background-color: $gil-maroon-dark;
+      border-color: $gil-maroon-dark;
+    }
+  }
+
+  .hero-cta-alt {
+    color: $gil-maroon;
+    font-weight: 600;
+  }
+
+  .hero-note {
+    font-size: 0.92rem;
+  }
+}
+
+.gil-tour-intro {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  .section-heading h1 {
+    color: $gil-ink;
+    letter-spacing: -0.025em;
+  }
+
+  p {
+    color: $gil-muted;
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 780px;
+  }
+
+  a {
+    color: $gil-maroon;
+    font-weight: 700;
+  }
+}
+
+.gil-research-tour {
+  background: $gil-sand;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1180px;
+  overflow: hidden;
+
+  .carousel-inner {
+    border-radius: 1.25rem;
+    box-shadow: 0 1.5rem 3.5rem rgba(33, 25, 23, 0.18);
+  }
+
+  .carousel-item::after {
+    background: linear-gradient(90deg, rgba(20, 15, 14, 0.28), rgba(20, 15, 14, 0.02), rgba(20, 15, 14, 0.28));
+    content: "";
+    inset: 0;
+    pointer-events: none;
+    position: absolute;
+  }
+
+  .wg-hero {
+    position: relative;
+    z-index: 1;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 4vw, 3.35rem);
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+    text-shadow: 0 0.2rem 1.25rem rgba(0, 0, 0, 0.45);
+  }
+
+  .hero-lead {
+    font-size: clamp(1rem, 1.8vw, 1.25rem);
+    line-height: 1.55;
+    max-width: 680px;
+    text-shadow: 0 0.15rem 0.8rem rgba(0, 0, 0, 0.65);
+  }
+
+  .btn-light {
+    border: 0;
+    color: $gil-maroon;
+    font-weight: 700;
+  }
+
+  .carousel-indicators {
+    margin-bottom: 1.25rem;
+  }
+}
+
+.gil-page-intro {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  .section-heading h1 {
+    color: $gil-ink;
+    font-size: clamp(2.75rem, 6vw, 4.75rem);
+    letter-spacing: -0.04em;
+  }
+
+  .section-heading p {
+    color: $gil-maroon;
+    font-size: clamp(1.2rem, 2.2vw, 1.55rem);
+    font-weight: 700;
+    line-height: 1.4;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+  }
+
+  .col-12 > p {
+    color: $gil-muted;
+    font-size: 1.12rem;
+    line-height: 1.75;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 850px;
+  }
+
+  .btn-primary {
+    background-color: $gil-maroon;
+    border-color: $gil-maroon;
+
+    &:hover,
+    &:focus {
+      background-color: $gil-maroon-dark;
+      border-color: $gil-maroon-dark;
+    }
+  }
+}
+
+.gil-research-lens {
+  .section-heading {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .featurette {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 0;
+
+    > .col-md-12 {
+      grid-column: 1 / -1;
+      max-width: none;
+      width: auto;
+    }
+
+    > .col-12.col-sm-4 {
+      background: #fff;
+      border: 1px solid rgba($gil-maroon, 0.1);
+      border-radius: 1rem;
+      box-shadow: 0 0.8rem 2rem rgba(33, 25, 23, 0.07);
+      max-width: none;
+      padding: 2rem 1.5rem;
+      width: auto;
+    }
+  }
+
+  .featurette-icon {
+    color: $gil-maroon;
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .section-subheading {
+    color: $gil-ink;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  p {
+    color: $gil-muted;
+    line-height: 1.65;
+  }
+}
+
+.gil-portfolio {
+  .section-heading {
+    margin-bottom: 2.75rem;
+    text-align: center;
+  }
+
+  .gil-showcase-item {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.1);
+    border-radius: 1.25rem;
+    box-shadow: 0 1rem 2.5rem rgba(33, 25, 23, 0.08);
+    overflow: hidden;
+    padding: 1.5rem;
+  }
+
+  .gil-showcase-copy {
+    padding: 2rem;
+  }
+
+  .article-title {
+    font-size: clamp(1.55rem, 2.5vw, 2.15rem);
+    line-height: 1.2;
+
+    a {
+      color: $gil-ink;
+    }
+  }
+
+  .article-style {
+    color: $gil-muted;
+    font-size: 1.03rem;
+    line-height: 1.7;
+    margin-top: 1.1rem;
+  }
+
+  .gil-showcase-media {
+    a,
+    img {
+      display: block;
+      width: 100%;
+    }
+
+    img {
+      aspect-ratio: 16 / 10;
+      border-radius: 0.9rem;
+      object-fit: cover;
+    }
+  }
+
+  .gil-showcase-actions {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .gil-inline-link {
+    color: $gil-maroon;
+    font-weight: 700;
+
+    i {
+      font-size: 0.85em;
+      padding-left: 0.35rem;
+      transition: transform 160ms ease;
+    }
+
+    &:hover i {
+      transform: translateX(0.2rem);
+    }
+  }
+
+  .btn-links {
+    margin: 0;
+  }
+}
+
+.gil-foundational {
+  .section-heading {
+    text-align: center;
+  }
+
+  .view-compact {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.09);
+    border-radius: 0.9rem;
+    margin-bottom: 1rem;
+    padding: 1.4rem;
+  }
+
+  .article-title a {
+    color: $gil-ink;
+  }
+
+  .article-style {
+    color: $gil-muted;
+    line-height: 1.6;
+  }
+}
+
+.gil-research-support {
+  .section-heading {
+    align-items: center !important;
+    margin-bottom: 2.5rem !important;
+    text-align: center;
+  }
+
+  .section-heading p,
+  .gil-sponsor-intro {
+    color: $gil-muted;
+    font-size: 1.06rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 760px;
+    text-align: center;
+  }
+}
+
+.gil-sponsors {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  margin-top: 2.5rem;
+}
+
+.gil-sponsor-card {
+  align-items: center;
+  background: #fff;
+  border: 1px solid rgba($gil-maroon, 0.11);
+  border-radius: 1rem;
+  box-shadow: 0 0.65rem 1.7rem rgba(33, 25, 23, 0.06);
+  color: $gil-ink;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  padding: 1.5rem 1rem 1.35rem;
+  text-align: center;
+  text-decoration: none;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+
+  &:hover,
+  &:focus {
+    border-color: rgba($gil-maroon, 0.32);
+    box-shadow: 0 0.95rem 2.2rem rgba(33, 25, 23, 0.1);
+    color: $gil-maroon;
+    text-decoration: none;
+    transform: translateY(-4px);
+  }
+
+  &:focus-visible {
+    outline: 3px solid rgba($gil-maroon, 0.35);
+    outline-offset: 3px;
+  }
+}
+
+.gil-sponsor-identity {
+  align-items: center;
+  display: flex;
+  height: 92px;
+  justify-content: center;
+  margin-bottom: 1.1rem;
+  width: 100%;
+
+  img {
+    height: auto;
+    max-height: 82px;
+    max-width: 170px;
+    object-fit: contain;
+    width: auto;
+  }
+}
+
+.gil-sponsor-mark {
+  color: $gil-maroon;
+  font-size: clamp(1.4rem, 2vw, 2rem);
+  font-weight: 800;
+  letter-spacing: 0.045em;
+  line-height: 1;
+}
+
+.gil-sponsor-name {
+  font-size: 0.94rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.gil-sponsor-kind {
+  color: $gil-muted;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  margin-top: auto;
+  padding-top: 0.75rem;
+}
+
+.gil-sponsor-note {
+  color: $gil-muted;
+  font-size: 0.78rem !important;
+  line-height: 1.55 !important;
+  margin: 1.5rem auto 0 !important;
+  max-width: 850px !important;
+  text-align: center;
+}
+
+.gil-people {
+  .section-heading {
+    margin-bottom: 2.5rem !important;
+    text-align: center;
+  }
+
+  .people-widget {
+    align-items: stretch;
+  }
+
+  .people-person {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.09);
+    border-radius: 1.1rem;
+    box-shadow: 0 0.8rem 2rem rgba(33, 25, 23, 0.07);
+    flex: 0 0 calc(33.333% - 1.5rem);
+    margin: 0.75rem;
+    max-width: calc(33.333% - 1.5rem);
+    padding: 2rem 1.25rem 1.6rem;
+    transition: box-shadow 180ms ease, transform 180ms ease;
+
+    &:hover {
+      box-shadow: 0 1.1rem 2.5rem rgba(33, 25, 23, 0.11);
+      transform: translateY(-4px);
+    }
+  }
+
+  .avatar {
+    border: 4px solid #fff;
+    box-shadow: 0 0.7rem 1.8rem rgba(33, 25, 23, 0.14);
+    height: 180px;
+    object-fit: cover;
+    width: 180px;
+  }
+
+  .portrait-title {
+    margin-top: 1.25rem;
+
+    h2 {
+      font-size: 1.35rem;
+      line-height: 1.25;
+
+      a {
+        color: $gil-ink;
+      }
+    }
+
+    h3 {
+      color: $gil-muted;
+      font-size: 0.98rem;
+      font-weight: 500;
+      line-height: 1.45;
+      min-height: 2.8em;
+    }
+  }
+
+  .network-icon {
+    margin-top: 0.8rem;
+
+    li {
+      margin-right: 0.2rem;
+    }
+
+    a {
+      color: $gil-maroon;
+    }
+  }
+}
+
+.gil-portfolio-cta {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 760px;
+  }
+
+  .btn-primary {
+    background: #fff;
+    border-color: #fff;
+    color: $gil-maroon;
+  }
+
+  .cta-group a:not(.btn) {
+    color: #fff;
+    font-weight: 600;
+  }
+}
+
+.gil-news,
+.gil-publications {
+  .section-heading h1 {
+    color: $gil-ink;
+    letter-spacing: -0.02em;
+  }
+
+  .section-heading p {
+    color: $gil-muted;
+  }
+}
+
+.gil-cta {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 760px;
+  }
+
+  .btn-primary {
+    background: #fff;
+    border-color: #fff;
+    color: $gil-maroon;
+
+    &:hover,
+    &:focus {
+      background: $gil-sand;
+      border-color: $gil-sand;
+      color: $gil-maroon-dark;
+    }
+  }
+
+  .cta-group a:not(.btn) {
+    color: #fff;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .gil-hero {
+    .hero-media {
+      margin-top: 2.5rem;
+    }
+
+    .cta-btns {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .hero-cta-alt {
+      padding-left: 0 !important;
+    }
+  }
+
+  .gil-research-tour {
+    border-radius: 0;
+
+    .carousel-inner {
+      border-radius: 0;
+    }
+
+    .wg-hero {
+      margin-left: 3.5rem !important;
+      margin-right: 3.5rem !important;
+    }
+
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .hero-lead {
+      font-size: 1rem;
+    }
+  }
+
+  .gil-research-lens .featurette {
+    grid-template-columns: 1fr;
+  }
+
+  .gil-portfolio {
+    .gil-showcase-item {
+      border-radius: 1rem;
+      padding: 1rem;
+    }
+
+    .gil-showcase-copy {
+      padding: 1.5rem 0.5rem 0.75rem;
+    }
+  }
+
+  .gil-sponsors {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .gil-people {
+    .people-person {
+      flex-basis: calc(50% - 1.5rem);
+      max-width: calc(50% - 1.5rem);
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .gil-sponsors {
+    grid-template-columns: 1fr;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .gil-sponsor-card {
+    min-height: 220px;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .gil-sponsor-name,
+  .gil-sponsor-kind {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    white-space: normal;
+  }
+
+  .gil-people {
+    .people-person {
+      flex-basis: calc(100% - 1.5rem);
+      max-width: calc(100% - 1.5rem);
+    }
+
+    .portrait-title h3 {
+      min-height: 0;
+    }
+  }
+}

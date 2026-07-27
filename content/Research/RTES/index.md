@@ -1,6 +1,10 @@
 ---
 title: Geothermal Energy Storage
 date: 2024-05-01
+weight: 40
+summary: Combine coupled reservoir physics and machine learning to quantify storage performance and manage risk in subsurface thermal energy systems.
+tags:
+  - Current Research
 ---
 
 Geothermal battery energy storage, using geological formations to store energy in the form of thermally heated brine, has been proposed as a solution to balance the increasing and intermittent nature of renewable energy generation and to enhance the stability of U.S. power grids. This concept has already been successfully applied for building heating and data center cooling by storing excess heat or cold during periods of low demand and recovering it during peak demand. This research aims to:

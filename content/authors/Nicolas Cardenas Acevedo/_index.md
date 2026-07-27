@@ -6,6 +6,9 @@ title: Nicolas Cardenas Acevedo
 first_name: Nicolas
 last_name: Cardenas Acevedo
 
+# Flat People page order: Ph.D. students, alphabetical
+people_order: 32
+
 # Username (this should match the folder name)
 authors:
   - Nicolas Cardenas Acevedo
@@ -66,7 +69,7 @@ email: 'nicolas.cardenas@tamu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - GIL Team
 ---
 
 Nicolas Cardenas Acevedo is a Ph.D. student in Petroleum Engineering at Texas A&M University. His research focuses on induced seismicity modeling, reservoir geomechanics, and geothermal energy development. He has prior experience in underwater energy storage and nanomaterials applied to drilling fluids and enhanced oil recovery. He is an active member of ARMA and SPE, and currently serves as Event Director for the TAMU-ARMA Student Chapter.

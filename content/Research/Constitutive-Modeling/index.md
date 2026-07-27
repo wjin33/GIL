@@ -1,6 +1,9 @@
 ---
 title: Multiscale modeling of micro-crack initiation to macro-fracture propagation
 date: 2018-12-31
+summary: Link microcrack nucleation and diffuse damage to localized macro-fracture formation in brittle materials through multiscale constitutive modeling.
+tags:
+  - Foundational Research
 ---
 
 Brittle materials—such as concrete, rock, and ceramic composites—exhibit complex mechanical behavior at the meso-scale, including:

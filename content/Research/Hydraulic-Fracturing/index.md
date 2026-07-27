@@ -1,6 +1,10 @@
 ---
 title: Hydraulic fracturing
 date: 2025-05-01
+weight: 30
+summary: Develop high-fidelity, GPU-accelerated models for fracture growth, transport, closure, and residual aperture in coupled porous media.
+tags:
+  - Current Research
 ---
 
 Hydraulic fracturing has revolutionized the oil and gas industry, and decades of field practice have enabled a deep understanding of many aspects of the process. However, several key phenomena remain insufficiently addressed:

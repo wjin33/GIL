@@ -6,6 +6,9 @@ title: Wencheng Jin
 first_name: Wencheng
 last_name: Jin
 
+# Flat People page order: PI first
+people_order: 10
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -69,7 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - GIL Team
 ---
 
 Dr. Wencheng Jin is an Assistant Professor in the Harold Vance Department of Petroleum Engineering at Texas A&M University. His research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. His research provides solutions for energy and mineral recovery and storage, material handling, and geohazard prediction.

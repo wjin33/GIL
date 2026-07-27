@@ -1,0 +1,27 @@
+items:
+  - name: ACS Petroleum Research Fund
+    mark: ACS PRF
+    kind: Fundamental research support
+    url: https://www.acs.org/funding/grants/petroleum-research-fund.html
+
+  - name: U.S. Department of Energy / Utah FORGE
+    logo: media/sponsors/utah-forge.png
+    logo_alt: Utah FORGE
+    kind: Enhanced geothermal systems research
+    url: https://utahforge.com/
+
+  - name: Office of Naval Research
+    mark: ONR
+    kind: Naval science and technology
+    url: https://www.onr.navy.mil/
+
+  - name: Crisman Institute for Petroleum Research
+    mark: CRISMAN
+    kind: Petroleum engineering research
+    url: https://crisman.tamu.edu/
+
+  - name: Texas A&M University System Research Excellence Fund
+    logo: media/sponsors/tamus.png
+    logo_alt: The Texas A&M University System
+    kind: Research Excellence Fund
+    url: https://www.tamus.edu/research/research-excellence-fund/
