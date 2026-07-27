@@ -5,7 +5,10 @@ date: 2019-12-15
 authors:
 - Wencheng Jin
 
-summary: This MATLAB package simulates fluid-driven fracture propagation in porous, anisotropic materials across multiple scales. It combines a meso-scale nonlocal damage model, a macro-scale cohesive zone model, and a transition algorithm to capture multiscale mechanical behavior. Fluid flow in both the matrix and fractures is modeled using Darcy’s and Cubic laws, and XFEM is employed for discretization and solution of the boundary value problems.
+summary: A MATLAB framework coupling nonlocal damage, cohesive fracture, Darcy flow, cubic-law fracture flow, and XFEM across meso- and macro-scales.
+
+tags:
+  - Current Software
 
 # abstract: This software built on the open-source, parallel (Multiphysics Object-Oriented Simulation Environment) framework, using the finite-element method. It solves the momentum balance and mass conservation equations for hydraulic fracturing using numerical techniques such as the discontinuous Galerkin method, cohesive zone models, and multiphase, multicomponent fluid-flow simulations. This allows the software to simulate proppant-fluid mixture-driven fracture propagation, proppant transport and settling, and fracture closure with proppant compaction. ELK solves the coupled dynamic hydromechanical governing equations for electric shocking (i.e., pulsed-power-induced fracturing). A damage model and permeability and stiffness evolution constitutive laws have been incorporated to simulate multi-fracture propagation in saturated environments. 
 
@@ -39,6 +42,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![Multiscale hydraulic fracture simulation](result.gif)
 
 The software has the following features:
 - Energy based arc length control for mechanical solver

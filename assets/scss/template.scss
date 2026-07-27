@@ -149,6 +149,226 @@ $gil-sand: #f7f5f2;
   }
 }
 
+.gil-page-intro {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  .section-heading h1 {
+    color: $gil-ink;
+    font-size: clamp(2.75rem, 6vw, 4.75rem);
+    letter-spacing: -0.04em;
+  }
+
+  .section-heading p {
+    color: $gil-maroon;
+    font-size: clamp(1.2rem, 2.2vw, 1.55rem);
+    font-weight: 700;
+    line-height: 1.4;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+  }
+
+  .col-12 > p {
+    color: $gil-muted;
+    font-size: 1.12rem;
+    line-height: 1.75;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 850px;
+  }
+
+  .btn-primary {
+    background-color: $gil-maroon;
+    border-color: $gil-maroon;
+
+    &:hover,
+    &:focus {
+      background-color: $gil-maroon-dark;
+      border-color: $gil-maroon-dark;
+    }
+  }
+}
+
+.gil-research-lens {
+  .section-heading {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .featurette {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 0;
+
+    > .col-md-12 {
+      grid-column: 1 / -1;
+      max-width: none;
+      width: auto;
+    }
+
+    > .col-12.col-sm-4 {
+      background: #fff;
+      border: 1px solid rgba($gil-maroon, 0.1);
+      border-radius: 1rem;
+      box-shadow: 0 0.8rem 2rem rgba(33, 25, 23, 0.07);
+      max-width: none;
+      padding: 2rem 1.5rem;
+      width: auto;
+    }
+  }
+
+  .featurette-icon {
+    color: $gil-maroon;
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .section-subheading {
+    color: $gil-ink;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  p {
+    color: $gil-muted;
+    line-height: 1.65;
+  }
+}
+
+.gil-portfolio {
+  .section-heading {
+    margin-bottom: 2.75rem;
+    text-align: center;
+  }
+
+  .gil-showcase-item {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.1);
+    border-radius: 1.25rem;
+    box-shadow: 0 1rem 2.5rem rgba(33, 25, 23, 0.08);
+    overflow: hidden;
+    padding: 1.5rem;
+  }
+
+  .gil-showcase-copy {
+    padding: 2rem;
+  }
+
+  .article-title {
+    font-size: clamp(1.55rem, 2.5vw, 2.15rem);
+    line-height: 1.2;
+
+    a {
+      color: $gil-ink;
+    }
+  }
+
+  .article-style {
+    color: $gil-muted;
+    font-size: 1.03rem;
+    line-height: 1.7;
+    margin-top: 1.1rem;
+  }
+
+  .gil-showcase-media {
+    a,
+    img {
+      display: block;
+      width: 100%;
+    }
+
+    img {
+      aspect-ratio: 16 / 10;
+      border-radius: 0.9rem;
+      object-fit: cover;
+    }
+  }
+
+  .gil-showcase-actions {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .gil-inline-link {
+    color: $gil-maroon;
+    font-weight: 700;
+
+    i {
+      font-size: 0.85em;
+      padding-left: 0.35rem;
+      transition: transform 160ms ease;
+    }
+
+    &:hover i {
+      transform: translateX(0.2rem);
+    }
+  }
+
+  .btn-links {
+    margin: 0;
+  }
+}
+
+.gil-foundational {
+  .section-heading {
+    text-align: center;
+  }
+
+  .view-compact {
+    background: #fff;
+    border: 1px solid rgba($gil-maroon, 0.09);
+    border-radius: 0.9rem;
+    margin-bottom: 1rem;
+    padding: 1.4rem;
+  }
+
+  .article-title a {
+    color: $gil-ink;
+  }
+
+  .article-style {
+    color: $gil-muted;
+    line-height: 1.6;
+  }
+}
+
+.gil-portfolio-cta {
+  text-align: center;
+
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 760px;
+  }
+
+  .btn-primary {
+    background: #fff;
+    border-color: #fff;
+    color: $gil-maroon;
+  }
+
+  .cta-group a:not(.btn) {
+    color: #fff;
+    font-weight: 600;
+  }
+}
+
 .gil-news,
 .gil-publications {
   .section-heading h1 {
@@ -232,6 +452,21 @@ $gil-sand: #f7f5f2;
 
     .hero-lead {
       font-size: 1rem;
+    }
+  }
+
+  .gil-research-lens .featurette {
+    grid-template-columns: 1fr;
+  }
+
+  .gil-portfolio {
+    .gil-showcase-item {
+      border-radius: 1rem;
+      padding: 1rem;
+    }
+
+    .gil-showcase-copy {
+      padding: 1.5rem 0.5rem 0.75rem;
     }
   }
 }

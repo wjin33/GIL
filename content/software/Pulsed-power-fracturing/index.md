@@ -6,7 +6,10 @@ authors:
 - Chunhui Zhao
 - Wencheng Jin
 
-summary: This software is built on the open-source parallel MOOSE framework and uses the finite-element method to model hydraulic fracturing. It solves momentum and mass conservation equations with advanced numerical techniques, enabling simulation of fracture propagation, proppant transport and settling, and fracture closure with compaction. The software also models pulsed-power-induced fracturing by solving coupled hydromechanical equations, incorporating damage models and evolving permeability and stiffness to capture multi-fracture growth in saturated environments.
+summary: A MOOSE-based finite-element framework for coupled hydromechanical fracture, including pulsed-power loading, evolving damage, permeability, stiffness, and multi-fracture growth.
+
+tags:
+  - Current Software
 
 # abstract:  
 
@@ -40,6 +43,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![Electro-hydraulic fracture simulation](result.gif)
 
 The software has the following features:
 - Hydraulic Fracturing with Proppant Transport

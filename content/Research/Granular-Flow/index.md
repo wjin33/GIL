@@ -1,6 +1,9 @@
 ---
 title: Nonconventional granular material flow modeling
 date: 2020-12-01
+summary: Develop and validate constitutive laws and computational models for biomass granular flow, unit-operation control, and equipment design.
+tags:
+  - Foundational Research
 ---
 
 Granular material can switch its behavior from solid-like (able to support quasi-static shear loads) to liquid-like (it can flow in a dense state). This research aims to
