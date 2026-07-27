@@ -6,6 +6,9 @@ title: Jerrick Xie
 first_name: Jerrick
 last_name: Xie
 
+# Flat People page order: undergraduate students, alphabetical
+people_order: 51
+
 # Username (this should match the folder name)
 authors:
   - Jerrick Xie
@@ -60,7 +63,7 @@ email: 'jerrick@tamu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - BS Students
+  - GIL Team
 ---
 
 Jerrick is a BS student in Petroleum Engineering at Texas A&M University. He is working on implementing the finite element method to solve the hydraulic fracturing-related problems.

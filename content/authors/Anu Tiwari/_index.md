@@ -6,6 +6,9 @@ title: Anu Tiwari
 first_name: Anurodh (Anu)
 last_name: Tiwari
 
+# Flat People page order: undergraduate students, alphabetical
+people_order: 50
+
 # Username (this should match the folder name)
 authors:
   - Anu Tiwari
@@ -59,7 +62,7 @@ email: 'anu124@tamu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - BS Students
+  - GIL Team
 ---
 
 Anu Tiwari is a B.S. student in Petroleum Engineering at Texas A&M University. His undergraduate research focuses on micro-CT analysis of multiphase flow in porous reservoir rocks, where he develops reproducible Python/PoreSpy workflows for image processing, segmentation, and pore-structure quantification. His interests include reservoir engineering, digital rock physics, enhanced oil recovery (EOR), and data-driven modeling for petroleum applications. He is an active member of the SPE and TAMU Drillbotics.

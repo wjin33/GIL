@@ -1,0 +1,25 @@
+{{- $sponsors := site.Data.sponsors.items -}}
+<p class="gil-sponsor-intro">
+  GIL gratefully acknowledges the sponsors and research programs that make our current work possible.
+</p>
+<div class="gil-sponsors" role="list" aria-label="Current research sponsors">
+  {{- range $sponsor := $sponsors }}
+    <a class="gil-sponsor-card" href="{{ $sponsor.url | safeURL }}" target="_blank" rel="noopener noreferrer" role="listitem" aria-label="Visit {{ $sponsor.name }}">
+      <span class="gil-sponsor-identity">
+        {{- with $sponsor.logo }}
+          {{- $logo := resources.Get . -}}
+          {{- with $logo }}
+            <img src="{{ .RelPermalink }}" alt="{{ $sponsor.logo_alt }} logo" loading="lazy">
+          {{- end }}
+        {{- else }}
+          <span class="gil-sponsor-mark" aria-hidden="true">{{ $sponsor.mark }}</span>
+        {{- end }}
+      </span>
+      <span class="gil-sponsor-name">{{ $sponsor.name }}</span>
+      <span class="gil-sponsor-kind">{{ $sponsor.kind }}</span>
+    </a>
+  {{- end }}
+</div>
+<p class="gil-sponsor-note">
+  Recognition of research support does not imply endorsement by any sponsoring organization.
+</p>

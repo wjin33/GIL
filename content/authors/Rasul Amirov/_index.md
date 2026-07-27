@@ -6,6 +6,9 @@ title: Rasul Amirov
 first_name: Rasul 
 last_name: Amirov
 
+# Flat People page order: Ph.D. students, alphabetical
+people_order: 30
+
 # Username (this should match the folder name)
 authors:
   - Rasul Amirov
@@ -68,7 +71,7 @@ email: 'rasulamirov@tamu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - GIL Team
 ---
 
 Rasul Amirov is a Ph.D. student in Petroleum Engineering at Texas A&M University specializing in reservoir geomechanics and hydraulic-fracturing simulation. He develops GPU/CUDA lattice-method models of coupled Mode I/II/III fracture propagation and has prior experience in deep learning for EOR, petrophysical characterization, and well-production forecasting.

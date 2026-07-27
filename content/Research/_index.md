@@ -93,6 +93,21 @@ sections:
         padding: ['4.5rem', '0', '4.5rem', '0']
 
   - block: markdown
+    id: research-support
+    content:
+      title: Research Support
+      subtitle: Organizations investing in GIL's current research
+      text: |
+        {{< sponsors >}}
+    design:
+      columns: '1'
+      css_class: gil-research-support
+      background:
+        color: '#ffffff'
+      spacing:
+        padding: ['4.75rem', '0', '4.75rem', '0']
+
+  - block: markdown
     content:
       title: Explore the Evidence
       subtitle: Publications, software, and opportunities to collaborate
