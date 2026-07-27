@@ -4,27 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: tour
-    weight: 10
   - name: Research
-    url: research
-    weight: 20
+    pageRef: /research
+    weight: 10
   - name: People
-    url: people
-    weight: 30
+    pageRef: /people
+    weight: 20
   - name: Publications
-    url: publication
-    weight: 40
+    pageRef: /publication
+    weight: 30
   - name: Software
-    url: software
-    weight: 50  
-  - name: Latest News
-    url: post
-    weight: 60
+    pageRef: /software
+    weight: 40
+  - name: News
+    pageRef: /post
+    weight: 50
   - name: Teaching
-    url: teaching
-    weight: 70  
-  - name: Contact
-    url: contact
-    weight: 80
+    pageRef: /teaching
+    weight: 60
+  - name: Join GIL
+    pageRef: /contact
+    weight: 70

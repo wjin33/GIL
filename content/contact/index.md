@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Join GIL
 date: 2025-09-20
 
 type: landing
@@ -7,22 +7,16 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Join GIL
       text: |
-        Join us.
+        The Geosystem Innovation Laboratory welcomes graduate students, undergraduate researchers, postdoctoral researchers, and visiting scholars interested in sustainable energy, subsurface resource recovery, geomechanics, multiphysics modeling, and granular materials.
 
-        GIL welcomes graduate students, undergraduate researchers, postdocs, and visiting scholars interested in sustainable energy, resource recovery, and subsurface geomechanics.
+        Prospective researchers should email Dr. Wencheng Jin with a CV or résumé and a short description of their background, research interests, and goals. Graduate applicants should also review the [Texas A&M graduate admissions process](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html) and the [Harold Vance Department of Petroleum Engineering graduate admissions information](https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html).
 
-        If our research aligns with your interests, please reach out and share your CV and a short note about your background and research goals.
-      
-      #  Graduate Program Application: 
-      #  [https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html](https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html)
-
-      #  [https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html](https://engineering.tamu.edu/petroleum/admissions-and-aid/graduate-admissions/index.html)
       email: wencheng.jin@tamu.edu
       phone: 979-458-7672
       address:
-        street: 245 Spence St, College Station, TX 77843
+        street: 245 Spence St
         city: College Station
         region: TX
         postcode: '77843'
@@ -32,7 +26,7 @@ sections:
         latitude: '30.6194035908471'
         longitude: '-96.3389786850971'
       # Automatically link email and phone or display as text?
-      # autolink: true
+      autolink: true
       # # Email form provider
       # form:
       #   provider: netlify
