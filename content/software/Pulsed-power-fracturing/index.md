@@ -40,7 +40,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-<!-- ![Hopper Flow](../../../images/hopper.gif) -->
 
 The software has the following features:
 - Hydraulic Fracturing with Proppant Transport

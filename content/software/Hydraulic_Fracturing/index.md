@@ -39,7 +39,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-<!-- ![Hopper Flow](../../../images/hopper.gif) -->
 
 The software has the following features:
 - Energy based arc length control for mechanical solver
