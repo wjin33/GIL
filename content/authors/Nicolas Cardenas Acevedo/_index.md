@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. student in Petroleum Engineering at Texas A&M University specializing in reservoir geomechanics, geothermal energy, and induced seismicity modeling. Research experience spans compressed air energy storage, and the development of nanomaterials for enhance oil recovery and drilling fluids. I am enthusiastic about advancing sustainable energy solutions through geomechanical analysis, numerical modeling, and innovative problem-solving. Currently, I serve as a Research Assistant for the Utah FORGE project, focusing on large-scale numerical simulation and microseismic data analysis.
+bio: Ph.D. student in Petroleum Engineering at Texas A&M University specializing in reservoir geomechanics, geothermal energy, and induced seismicity modeling. His research experience spans compressed-air energy storage and the development of nanomaterials for enhanced oil recovery and drilling fluids. He advances sustainable energy solutions through geomechanical analysis, numerical modeling, and innovative problem-solving. As a Research Assistant for the Utah FORGE project, he focuses on large-scale numerical simulation and microseismic data analysis.
 
 interests:
   - Reservoir Geomechanics
@@ -54,12 +54,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nicolas-cardenas-acevedo-2208126/
-  - icon: 
-    icon_pack: 
-    link: 
-  - icon: 
-    icon_pack: 
-    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'nicolas.cardenas@tamu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,4 +70,3 @@ user_groups:
 ---
 
 Nicolas Cardenas Acevedo is a Ph.D. student in Petroleum Engineering at Texas A&M University. His research focuses on induced seismicity modeling, reservoir geomechanics, and geothermal energy development. He has prior experience in underwater energy storage and nanomaterials applied to drilling fluids and enhanced oil recovery. He is an active member of ARMA and SPE, and currently serves as Event Director for the TAMU-ARMA Student Chapter.
-

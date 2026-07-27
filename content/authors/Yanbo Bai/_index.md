@@ -53,13 +53,7 @@ social:
     link: 'mailto:yanbobai@tamu.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://https://www.linkedin.com/in/yanbo-bai-89293339b/
-  - icon: 
-    icon_pack: 
-    link: 
-  - icon: 
-    icon_pack: 
-    link: 
+    link: https://www.linkedin.com/in/yanbo-bai-89293339b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yanbobai@tamu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,6 +69,5 @@ user_groups:
   - Ph.D. Students
 ---
 
-Yanbo is a Ph.D. student in Petroleum Engineering at Texas A&M University, focused on fundamental investigations of electrowetting, electroosmosis, and electromigration in porous and fractured geomaterials. My research integrates customized microfluidic platforms and electrically controlled core-flooding experiments with in situ micro-CT characterization to elucidate coupled electro-hydro-mechanical-chemical processes. These efforts target applications in mineral in situ mining, electrically enhanced oil recovery (EEOR), and critical mineral recovery from shale formations. Prior to joining Texas A&M, my research centered on microwave-assisted hard rock drilling technologies. This work encompassed multiphysics field modeling, multiscale mechanical property characterization, and upscaling analyses, as well as studies of rockburst tendency and damage distribution in hard rock subjected to microwave-induced fracturing.
-
+Yanbo is a Ph.D. student in Petroleum Engineering at Texas A&M University focused on electrowetting, electroosmosis, and electromigration in porous and fractured geomaterials. His research integrates customized microfluidic platforms and electrically controlled core-flooding experiments with in situ micro-CT characterization to study coupled electro-hydro-mechanical-chemical processes. These efforts target mineral in situ mining, electrically enhanced oil recovery, and critical mineral recovery from shale formations. Before joining Texas A&M, his research centered on microwave-assisted hard-rock drilling, including multiphysics modeling, multiscale mechanical characterization, upscaling, rockburst tendency, and damage evolution.
 

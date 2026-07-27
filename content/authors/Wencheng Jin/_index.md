@@ -18,7 +18,7 @@ organizations:
     url: 'https://engineering.tamu.edu/petroleum/profiles/jin-wencheng.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. My research provides solutions for energy/minerals recovery & storage, material handling, and GeoHazards prediction.
+bio: My research interests include novel rock breakage and fracture for subsurface resource recovery, data-driven and physics-based multiphysics modeling in porous and fractured media, and granular material flow characterization and modeling. My research supports energy and mineral recovery and storage, material handling, and geohazard prediction.
 
 interests:
   - Novel rock breakage and fracture for subsurface resource recovery
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wencheng.jin@tamu.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

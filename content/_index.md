@@ -74,7 +74,7 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 
-        Explore our [research](./research/), browse our [software](./software/), or [contact us](./contact/) about collaboration opportunities.
+        Explore our [research](./research/), browse our [software](./software/), or [join GIL](./contact/) to discuss research and collaboration opportunities.
     design:
       columns: '1'
 ---

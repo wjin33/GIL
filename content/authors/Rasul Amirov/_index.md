@@ -56,12 +56,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rasulamirov/
-  - icon: 
-    icon_pack: 
-    link: 
-  - icon: 
-    icon_pack: 
-    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rasulamirov@tamu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,4 +72,3 @@ user_groups:
 ---
 
 Rasul Amirov is a Ph.D. student in Petroleum Engineering at Texas A&M University specializing in reservoir geomechanics and hydraulic-fracturing simulation. He develops GPU/CUDA lattice-method models of coupled Mode I/II/III fracture propagation and has prior experience in deep learning for EOR, petrophysical characterization, and well-production forecasting.
-
