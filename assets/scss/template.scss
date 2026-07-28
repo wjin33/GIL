@@ -363,7 +363,7 @@ $gil-sand: #f7f5f2;
 .gil-sponsors {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   margin-top: 2.5rem;
 }
 

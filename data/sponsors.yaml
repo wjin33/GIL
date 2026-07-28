@@ -1,8 +1,15 @@
 items:
   - name: ACS Petroleum Research Fund
-    mark: ACS PRF
+    logo: media/sponsors/ACS_PRF.jpg
+    logo_alt: ACS Petroleum Research Fund
     kind: Fundamental research support
     url: https://www.acs.org/funding/grants/petroleum-research-fund.html
+
+  - name: U.S. Department of Energy ARPA-E
+    logo: media/sponsors/ARPA_E.png
+    logo_alt: Advanced Research Projects Agency-Energy
+    kind: Transformational energy research
+    url: https://arpa-e.energy.gov/
 
   - name: U.S. Department of Energy / Utah FORGE
     logo: media/sponsors/utah-forge.png
