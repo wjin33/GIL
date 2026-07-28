@@ -101,6 +101,36 @@ sections:
             icon_pack: fas
             text: Explore this research
             url: ./research/hydraulic-fracturing/
+        - title: Hydraulic Fracture Swarm
+          content: Develop a Lattice Beam based solver capable of modeling Mode-II and Mode-III fracture propagation.
+          align: right
+          background:
+            image:
+              filename: LatticeBeam.png
+              position: center
+              filters:
+                brightness: 0.5
+            color: '#20242a'
+          link:
+            icon: arrow-right
+            icon_pack: fas
+            text: Explore this research
+            url: ./research/hydraulic-fracturing/
+        - title: Multiphase Flow in Pores
+          content: Quantify the impact of deformation on multiphase flow for porous media.
+          align: left
+          background:
+            image:
+              filename: LBMP.png
+              position: center
+              filters:
+                brightness: 0.45
+            color: '#20242a'
+          link:
+            icon: arrow-right
+            icon_pack: fas
+            text: Explore this research
+            url: ./research/
         - title: Geothermal Energy Storage
           content: Integrated physics and machine learning help quantify storage performance and manage risk in subsurface thermal energy systems.
           align: right
