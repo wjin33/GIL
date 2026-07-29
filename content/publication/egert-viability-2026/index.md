@@ -8,6 +8,9 @@ date: '2026-01-01'
 publishDate: '2025-09-13T17:29:46.030682Z'
 publication_types:
 - article-journal
+categories:
+- Dynamic Stimulation
+- Multiphase Flow
 publication: '*Geoenergy Science and Engineering*'
 doi: 10.1016/j.geoen.2025.214130
 abstract: Hydrogen-based technologies present a promising solution for the global

@@ -33,6 +33,8 @@ date: '2023-07-01'
 publishDate: '2025-09-13T17:29:45.954023Z'
 publication_types:
 - article-journal
+categories:
+- Thermal Energy Storage
 publication: '*Geological Society, London, Special Publications*'
 doi: 10.1144/SP528-2022-160
 abstract: Storage of energy-related products in the geological subsurface provides

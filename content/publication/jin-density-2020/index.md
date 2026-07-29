@@ -10,6 +10,8 @@ date: '2020-05-01'
 publishDate: '2025-09-13T17:29:45.835232Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Powder Technology*'
 doi: 10.1016/j.powtec.2020.04.038
 abstract: Integrated biorefineries suffer from equipment down-time due to poor understanding

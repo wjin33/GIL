@@ -205,7 +205,7 @@ sections:
       text: |
         We welcome students, researchers, and collaborators who want to advance sustainable subsurface energy, multiscale geomechanics, and scientific AI.
 
-        {{% cta cta_link="./contact/" cta_text="Join GIL" cta_alt_link="./people/" cta_alt_text="Meet the team" %}}
+        {{% cta cta_link="./people/#join" cta_text="Join GIL" cta_alt_link="./people/#team" cta_alt_text="Meet the team" %}}
     design:
       columns: '1'
       css_class: gil-cta

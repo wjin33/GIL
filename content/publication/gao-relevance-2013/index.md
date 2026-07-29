@@ -10,6 +10,8 @@ date: '2013-11-01'
 publishDate: '2025-09-13T17:29:45.744818Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal of Mining Science and Technology*'
 doi: 10.1016/j.ijmst.2013.11.008
 abstract: 'Based on the geological conditions of coal mining face No. 15-14120 at

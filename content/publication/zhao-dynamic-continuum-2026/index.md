@@ -8,5 +8,8 @@ authors:
 date: '2026-01-01'
 publication_types:
   - paper-conference
+categories:
+  - Dynamic Stimulation
+  - Fracture & Damage Mechanics
 publication: '*Proceedings, 51st Workshop on Geothermal Reservoir Engineering, Stanford University, Stanford, California*'
 ---

@@ -8,6 +8,8 @@ date: '2017-08-01'
 publishDate: '2025-09-13T17:29:45.812659Z'
 publication_types:
 - paper-conference
+categories:
+- Fracture & Damage Mechanics
 publication: '*American Rock Mechanics Association*'
 abstract: 'ABSTRACT: This paper presents the theoretical formulation and numerical
   implementation of an anisotropic damage model for materials with intrinsic transverse

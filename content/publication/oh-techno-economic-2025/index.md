@@ -18,6 +18,8 @@ date: '2025-08-01'
 publishDate: '2025-09-13T17:29:46.014590Z'
 publication_types:
 - article-journal
+categories:
+- Thermal Energy Storage
 publication: '*Applied Energy*'
 doi: 10.1016/j.apenergy.2025.125858
 abstract: Electronic equipment in data centers generates heat during operation, which

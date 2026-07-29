@@ -11,6 +11,8 @@ date: '2021-05-01'
 publishDate: '2025-09-13T17:22:56.222817Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Powder Technology*'
 doi: 10.1016/j.powtec.2021.01.027
 abstract: Poor flowability of compressible biomass particles poses severe handling

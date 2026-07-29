@@ -10,6 +10,9 @@ date: '2015-07-01'
 publishDate: '2025-09-13T17:29:45.733961Z'
 publication_types:
 - paper-conference
+categories:
+- Fracture & Damage Mechanics
+- Multiphase Flow
 publication: '*Georgia Institute of Technology*'
 abstract: 'The objective of this work is to model the influence of shear stresses
   induced by viscous fluid flow on wellbore spalling. We simulated a drop of stress

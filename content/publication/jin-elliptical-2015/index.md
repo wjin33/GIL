@@ -11,6 +11,8 @@ date: '2015-06-01'
 publishDate: '2025-09-13T17:29:45.759933Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*Environmental Earth Sciences*'
 doi: 10.1007/s12665-015-4158-4
 abstract: Roof-coal recovery rate and the performance of gas extraction are essentially

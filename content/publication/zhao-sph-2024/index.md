@@ -13,6 +13,8 @@ date: '2024-03-01'
 publishDate: '2025-09-13T17:29:45.983471Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*ACS Sustainable Chemistry & Engineering*'
 doi: 10.1021/acssuschemeng.3c08090
 abstract: Numerical modeling of granular biomass material flow in handling operations

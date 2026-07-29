@@ -318,6 +318,13 @@ $gil-sand: #f7f5f2;
   }
 }
 
+.gil-software-gallery {
+  .gil-showcase-media img {
+    background: #fff;
+    object-fit: contain;
+  }
+}
+
 .gil-foundational {
   .section-heading {
     text-align: center;
@@ -542,6 +549,52 @@ $gil-sand: #f7f5f2;
   }
 }
 
+.gil-openings {
+  .section-heading {
+    align-items: center !important;
+    margin-bottom: 1.5rem !important;
+    text-align: center;
+  }
+
+  .section-heading h1 {
+    color: $gil-ink;
+    letter-spacing: -0.02em;
+  }
+
+  .section-heading p {
+    color: $gil-maroon;
+    font-weight: 700;
+  }
+
+  .article-style {
+    background: linear-gradient(135deg, rgba($gil-maroon, 0.045), #fff 72%);
+    border: 1px solid rgba($gil-maroon, 0.14);
+    border-left: 0.35rem solid $gil-maroon;
+    border-radius: 0.9rem;
+    box-shadow: 0 0.75rem 2rem rgba(33, 25, 23, 0.07);
+    color: $gil-muted;
+    font-size: 1.04rem;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding: 1.6rem 1.8rem;
+  }
+
+  .article-style p:last-child {
+    margin-bottom: 0;
+  }
+
+  .article-style strong {
+    color: $gil-ink;
+    font-size: 1.12rem;
+  }
+
+  .article-style a {
+    font-weight: 700;
+  }
+}
+
 .gil-news,
 .gil-publications {
   .section-heading h1 {
@@ -683,6 +736,61 @@ $gil-sand: #f7f5f2;
 
     .portrait-title h3 {
       min-height: 0;
+    }
+  }
+}
+
+// Publication archive: retain the native search/type/year controls and add
+// a compact, controlled research-topic navigation layer.
+.publication-archive {
+  .publication-intro {
+    margin-bottom: 1.15rem;
+    color: rgba(20, 38, 55, 0.72);
+  }
+
+  .publication-filters {
+    align-items: center;
+    gap: 0.55rem 0;
+    padding: 0.9rem;
+    border: 1px solid rgba(16, 70, 98, 0.12);
+    border-radius: 0.75rem;
+    background: rgba(247, 250, 252, 0.82);
+  }
+
+  .publication-search input {
+    min-width: 15rem;
+  }
+
+  .pub-topic-labels {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.45rem;
+  }
+
+  .pub-topic-label {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.18rem 0.55rem;
+    border: 1px solid rgba(14, 104, 142, 0.18);
+    border-radius: 999px;
+    background: rgba(14, 104, 142, 0.08);
+    color: #0b607f;
+    font-size: 0.73rem;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: 0.01em;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .publication-archive {
+    .publication-filters > .col-auto,
+    .publication-search,
+    .publication-search input,
+    .publication-filters select {
+      width: 100%;
+      min-width: 0;
     }
   }
 }

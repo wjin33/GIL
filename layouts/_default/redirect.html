@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ .Params.redirect_to | relURL }}">
+    <link rel="canonical" href="{{ .Params.redirect_to | absURL }}">
+    <title>{{ .Title }} | {{ site.Title }}</title>
+    <script>window.location.replace({{ (.Params.redirect_to | relURL) | jsonify | safeJS }});</script>
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ .Params.redirect_to | relURL }}">People — Join GIL</a>.</p>
+  </body>
+</html>

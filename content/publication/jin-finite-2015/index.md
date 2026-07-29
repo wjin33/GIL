@@ -9,6 +9,8 @@ date: '2015-01-01'
 publishDate: '2025-09-13T17:22:56.240259Z'
 publication_types:
 - paper-conference
+categories:
+- Fracture & Damage Mechanics
 abstract: Abstract Optimizing hydraulic fracture injection parameters in order to
   maximize hydrocarbon extraction and to avoid extensive borehole spalling is still
   an open issue. In this paper, the Differential Stress Induced Damage (DSID) model

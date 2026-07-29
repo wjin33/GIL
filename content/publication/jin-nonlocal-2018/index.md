@@ -8,6 +8,8 @@ date: '2018-02-01'
 publishDate: '2025-09-13T17:29:45.775235Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*Computers and Geotechnics*'
 doi: 10.1016/j.compgeo.2017.09.011
 abstract: 'Upon crack propagation, brittle geomaterials such as concrete and rock

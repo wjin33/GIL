@@ -14,6 +14,9 @@ date: '2022-06-01'
 publishDate: '2025-09-13T17:29:45.932043Z'
 publication_types:
 - paper-conference
+categories:
+- Thermal Energy Storage
+- Multiphase Flow
 publication: '*OnePetro*'
 doi: 10.56952/ARMA-2022-2068
 links:

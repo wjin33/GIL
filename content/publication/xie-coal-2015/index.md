@@ -11,6 +11,8 @@ date: '2015-08-01'
 publishDate: '2025-09-13T16:57:09.939682Z'
 publication_types:
 - article-journal
+categories:
+- Multiphase Flow
 publication: '*Geomechanics and Geophysics for Geo-Energy and Geo-Resources*'
 doi: 10.1007/s40948-015-0002-2
 abstract: In situ gas extraction is the main measure adopted by mines to achieve mining

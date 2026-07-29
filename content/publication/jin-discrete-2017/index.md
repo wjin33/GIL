@@ -7,6 +7,8 @@ date: '2017-04-01'
 publishDate: '2025-09-13T16:57:09.927739Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal of Solids and Structures*'
 doi: 10.1016/j.ijsolstr.2016.12.025
 abstract: 'The Discrete Equivalent Wing Crack Damage (DEWCD) model formulated in this

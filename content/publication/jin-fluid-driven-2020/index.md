@@ -8,6 +8,9 @@ date: '2020-01-01'
 publishDate: '2025-09-13T17:29:45.871893Z'
 publication_types:
 - article-journal
+categories:
+- Hydraulic Fracturing
+- Fracture & Damage Mechanics
 publication: '*Acta Geotechnica*'
 doi: 10.1007/s11440-019-00813-x
 abstract: In this paper, a numerical method is proposed to simulate multi-scale fracture

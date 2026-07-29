@@ -8,6 +8,8 @@ date: '2019-12-01'
 publishDate: '2025-09-13T17:29:45.879395Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*Computer Methods in Applied Mechanics and Engineering*'
 doi: 10.1016/j.cma.2019.112617
 abstract: A computational tool is developed to simulate the propagation of a discrete

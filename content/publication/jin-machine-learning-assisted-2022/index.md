@@ -15,6 +15,9 @@ date: '2022-07-01'
 publishDate: '2025-09-13T17:29:45.924268Z'
 publication_types:
 - article-journal
+categories:
+- Thermal Energy Storage
+- Scientific AI
 publication: '*Renewable Energy*'
 doi: 10.1016/j.renene.2022.07.118
 abstract: High-temperature reservoir thermal energy storage (HT-RTES) has the potential

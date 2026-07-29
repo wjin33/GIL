@@ -11,6 +11,8 @@ date: '2023-05-01'
 publishDate: '2025-09-13T17:29:45.946341Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Powder Technology*'
 doi: 10.1016/j.powtec.2023.118625
 abstract: The commercialization of biomass-derived energy is impeded by flowability

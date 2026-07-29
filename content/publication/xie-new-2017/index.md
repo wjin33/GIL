@@ -12,6 +12,8 @@ date: '2017-01-01'
 publishDate: '2025-09-13T17:29:45.783227Z'
 publication_types:
 - article-journal
+categories:
+- Multiphase Flow
 publication: '*Thermal Science*'
 abstract: Based on the fractal-percolation properties, the equivalent permeability
   analysis of 3-D discrete fracture network models are investigated and analyzed for

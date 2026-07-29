@@ -8,6 +8,8 @@ date: '2017-08-01'
 publishDate: '2025-09-13T17:29:45.806192Z'
 publication_types:
 - paper-conference
+categories:
+- Fracture & Damage Mechanics
 publication: '*American Rock Mechanics Association*'
 abstract: 'ABSTRACT: A nonlocal anisotropic damage model is proposed for quasi-brittle
   materials, such as concrete and rock. The local anisotropic damage model is formulated

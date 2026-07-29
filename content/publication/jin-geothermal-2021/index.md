@@ -10,6 +10,9 @@ date: '2021-06-01'
 publishDate: '2025-09-13T17:29:45.894531Z'
 publication_types:
 - paper-conference
+categories:
+- Thermal Energy Storage
+- Scientific AI
 publication: '*OnePetro*'
 links:
 - name: URL

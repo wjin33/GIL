@@ -7,6 +7,8 @@ date: '2018-05-01'
 publishDate: '2025-09-13T17:29:45.827333Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal of Solids and Structures*'
 doi: 10.1016/j.ijsolstr.2018.01.020
 abstract: This paper presents the theoretical formulation and numerical implementation

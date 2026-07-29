@@ -15,6 +15,8 @@ date: '2022-01-01'
 publishDate: '2025-09-13T17:29:45.907460Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Frontiers in Energy Research*'
 abstract: The upstream of bioenergy industry has suffered from unreliable operations
   of granular biomass feedstocks in handling equipment. Computational modeling, including

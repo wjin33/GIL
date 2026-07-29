@@ -9,6 +9,9 @@ date: '2023-01-01'
 publishDate: '2025-09-13T17:29:45.977228Z'
 publication_types:
 - paper-conference
+categories:
+- Hydraulic Fracturing
+- Multiphase Flow
 publication: '*Idaho National Laboratory (INL), Idaho Falls, ID (United States)*'
 links:
 - name: URL
