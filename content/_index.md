@@ -56,8 +56,8 @@ sections:
     id: research-tour
     content:
       slides:
-        - title: Pulsed-Power Fracturing
-          content: High-fidelity poro-dynamic simulations reveal how rapid energy release generates complex fracture networks in dry and saturated rock.
+        - title: Dynamic Stimulation Technologies
+          content: Coupled multiphysics models reveal how high-rate energy delivery can generate complex fracture networks and enhance subsurface permeability.
           align: left
           background:
             image:
@@ -70,7 +70,7 @@ sections:
             icon: arrow-right
             icon_pack: fas
             text: Explore this research
-            url: ./research/dynamic-fracturing/
+            url: ./research/dynamic-stimulation/
         - title: Induced Seismicity
           content: Coupled models investigate why significant seismic events can occur after subsurface fluid injection has stopped.
           align: right
@@ -116,7 +116,7 @@ sections:
             icon_pack: fas
             text: Explore this research
             url: ./research/hydraulic-fracturing/
-        - title: Multiphase Flow in Pores
+        - title: Multiphase Flow in Porous Media
           content: Quantify the impact of deformation on multiphase flow for porous media.
           align: left
           background:
@@ -130,7 +130,7 @@ sections:
             icon: arrow-right
             icon_pack: fas
             text: Explore this research
-            url: ./research/
+            url: ./research/multiphase-flow-porous-media/
         - title: Geothermal Energy Storage
           content: Integrated physics and machine learning help quantify storage performance and manage risk in subsurface thermal energy systems.
           align: right

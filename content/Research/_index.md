@@ -54,9 +54,9 @@ sections:
     id: current-research
     content:
       title: Current Research
-      subtitle: Four connected priorities shaping GIL's present program
+      subtitle: Five connected priorities shaping GIL's present program
       text: ""
-      count: 4
+      count: 5
       sort_by: Weight
       sort_ascending: true
       filters:
