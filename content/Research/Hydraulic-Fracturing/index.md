@@ -3,6 +3,9 @@ title: Hydraulic fracturing
 date: 2025-05-01
 weight: 30
 summary: Develop high-fidelity, GPU-accelerated models for fracture growth, transport, closure, and residual aperture in coupled porous media.
+authors:
+  - Rasul Amirov
+  - Jerrick Xie
 tags:
   - Current Research
 ---
@@ -21,3 +24,4 @@ Beyond the inherent complexity of these multiphysics processes, achieving high-f
 1. W. Jin, C. Arson, (2019). [Fluid-driven transition from damage to fracture in anisotropic porous media: a multi-scale XFEM approach](https://wjin33.github.io/GIL/publication/jin-fluid-driven-2020/).  Acta Geotechnica, 15(1), 113-144.
 2. Jin, W., Zhao, C., Pham, V. V., Yang, M., Egert, R., McLing, T., ... & Villamor-Lora, R. (2025, June). [ELK: a MOOSE framework based computational tool for modeling electro-hydraulic fracturing](https://wjin33.github.io/GIL/publication/jin-elk-2025/). In ARMA US Rock Mechanics/Geomechanics Symposium (p. D021S009R002). ARMA.
 3. Egert, R., Fournier, A., & Jin, W. (2026). [Modeling proppant transport and settling in a 3D propagating fracture](https://wjin33.github.io/GIL/publication/egert-modeling-proppant-2026/). Deep Underground Science and Engineering.
+4. Amirov, R., Meehan, D. N., & Jin, W. (2026). [Lattice-Beam Modeling of Mixed-Mode Fracture: Benchmarking 3-Point-Bending with Asymmetric Notch](https://wjin33.github.io/GIL/publication/amirov-lattice-beam-2026/). In ARMA US Rock Mechanics/Geomechanics Symposium (p. D022S041R005). ARMA.

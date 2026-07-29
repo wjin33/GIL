@@ -18,8 +18,8 @@ sections:
             filters:
               brightness: 0.7
           color: '#0a0a0aff'
-      - title: Pulsed Power Fracturing
-        content: 'Simulating poro-dynamic fracture propagation in dry and saturated rock!'
+      - title: Dynamic Stimulation Technologies
+        content: 'Modeling high-rate coupled processes that generate complex fracture networks and enhance subsurface permeability.'
         align: right
         background:
           image:
@@ -48,7 +48,7 @@ sections:
             filters:
               brightness: 0.5
           color: '#333'
-      - title: Multiphase Flow in Pores
+      - title: Multiphase Flow in Porous Media
         content: 'Quantify the impact of deformation on multiphase flow for porous media.'
         align: left
         background:

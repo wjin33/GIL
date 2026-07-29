@@ -3,6 +3,8 @@ title: Induced Seismicity
 date: 2025-09-01
 weight: 20
 summary: Investigate the coupled mechanisms that can generate significant seismic events after subsurface fluid injection has stopped.
+authors:
+  - Nicolas Cardenas Acevedo
 tags:
   - Current Research
 ---
