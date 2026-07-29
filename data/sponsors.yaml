@@ -2,24 +2,24 @@ items:
   - name: ACS Petroleum Research Fund
     logo: media/sponsors/ACS_PRF.jpg
     logo_alt: ACS Petroleum Research Fund
-    kind: Fundamental research support
+    kind: Doctoral New Investigator
     url: https://www.acs.org/funding/grants/petroleum-research-fund.html
 
   - name: U.S. Department of Energy ARPA-E
     logo: media/sponsors/ARPA_E.png
     logo_alt: Advanced Research Projects Agency-Energy
-    kind: Transformational energy research
+    kind: OPEN, MINER, ROCKS, SUPERHOT programs
     url: https://arpa-e.energy.gov/
 
-  - name: U.S. Department of Energy / Utah FORGE
+  - name: U.S. Department of Energy
     logo: media/sponsors/utah-forge.png
     logo_alt: Utah FORGE
-    kind: Enhanced geothermal systems research
+    kind: Utah FORGE Solicitation-2
     url: https://utahforge.com/
 
   - name: Office of Naval Research
     mark: ONR
-    kind: Naval science and technology
+    kind: Young Investigator Program
     url: https://www.onr.navy.mil/
 
   - name: Crisman Institute for Petroleum Research
@@ -30,5 +30,5 @@ items:
   - name: Texas A&M University System Research Excellence Fund
     logo: media/sponsors/tamus.png
     logo_alt: The Texas A&M University System
-    kind: Research Excellence Fund
+    kind: Early-Stage Research Development Program
     url: https://www.tamus.edu/research/research-excellence-fund/
