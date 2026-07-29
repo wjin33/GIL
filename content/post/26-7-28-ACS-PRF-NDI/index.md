@@ -6,7 +6,7 @@ image:
   caption: 'Conceptual illustration of deformation-coupled multiphase displacement in a pore throat.'
 ---
 
-GIL has received a New Doctoral Investigator award from the ACS Petroleum Research Fund to investigate how deformation reshapes pore-scale multiphase flow and transport.
+GIL has received a Doctoral New Investigator award from the ACS Petroleum Research Fund to investigate how deformation reshapes pore-scale multiphase flow and transport.
 
 <!--more-->
 
