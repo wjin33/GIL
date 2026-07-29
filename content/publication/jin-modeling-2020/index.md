@@ -11,6 +11,8 @@ date: '2020-09-01'
 publishDate: '2025-09-13T17:29:45.864366Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-020-72557-8
 abstract: State-of-the-Art models of Root System Architecture (RSA) do not allow simulating

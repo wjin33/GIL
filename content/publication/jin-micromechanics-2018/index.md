@@ -8,6 +8,8 @@ date: '2018-05-01'
 publishDate: '2025-09-13T17:29:45.819060Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal of Damage Mechanics*'
 doi: 10.1177/1056789517695872
 abstract: The discrete damage model presented in this paper accounts for 42 non-interacting

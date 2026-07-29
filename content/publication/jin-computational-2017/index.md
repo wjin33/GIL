@@ -10,6 +10,8 @@ date: '2017-01-01'
 publishDate: '2025-09-13T17:29:45.790040Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal for Numerical and Analytical Methods in Geomechanics*'
 doi: https://doi.org/10.1002/nag.2553
 abstract: We propose a numerical method that couples a cohesive zone model (CZM) and

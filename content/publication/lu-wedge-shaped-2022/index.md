@@ -11,6 +11,8 @@ date: '2022-12-01'
 publishDate: '2025-09-13T17:29:45.938753Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*ACS Sustainable Chemistry & Engineering*'
 doi: 10.1021/acssuschemeng.2c05284
 abstract: The bioenergy industry has been challenged by unstable flow and transport

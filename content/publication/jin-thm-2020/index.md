@@ -9,6 +9,8 @@ date: '2020-09-01'
 publishDate: '2025-09-13T17:29:45.842893Z'
 publication_types:
 - paper-conference
+categories:
+- Thermal Energy Storage
 publication: '*American Rock Mechanics Association*'
 abstract: ABSTRACT This paper presents the numerical investigation of the geological
   thermal energy storage (GeoTES) by considering well configuration, discrete fracture

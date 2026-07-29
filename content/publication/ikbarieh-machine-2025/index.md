@@ -13,6 +13,9 @@ date: '2025-04-01'
 publishDate: '2025-09-13T17:29:46.022586Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
+- Scientific AI
 publication: '*ACS Sustainable Chemistry & Engineering*'
 doi: 10.1021/acssuschemeng.4c08938
 abstract: The promise of biomass-derived biofuels is often overshadowed by intricate

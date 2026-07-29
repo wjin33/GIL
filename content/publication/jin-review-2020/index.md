@@ -10,6 +10,8 @@ date: '2020-04-01'
 publishDate: '2025-09-13T17:29:45.849423Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*ACS Sustainable Chemistry & Engineering*'
 doi: 10.1021/acssuschemeng.0c00412
 abstract: The design of efficient material-handling systems for milled lignocellulosic

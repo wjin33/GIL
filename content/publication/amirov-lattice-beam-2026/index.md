@@ -7,5 +7,8 @@ authors:
 date: '2026-01-01'
 publication_types:
   - paper-conference
+categories:
+  - Fracture & Damage Mechanics
+  - Hydraulic Fracturing
 publication: '*ARMA US Rock Mechanics/Geomechanics Symposium*'
 ---

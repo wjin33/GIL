@@ -10,6 +10,9 @@ date: '2025-01-01'
 publishDate: '2025-09-13T17:29:46.006674Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
+- Scientific AI
 publication: '*Computers and Geotechnics*'
 doi: 10.1016/j.compgeo.2024.106907
 abstract: Significant equipment downtime, mainly caused by the variable attributes

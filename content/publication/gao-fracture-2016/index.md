@@ -11,6 +11,8 @@ date: '2016-07-01'
 publishDate: '2025-09-13T17:29:45.767254Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal of Rock Mechanics and Mining Sciences*'
 doi: 10.1016/j.ijrmms.2016.04.005
 abstract: The size of a fracture within a rock mass can be obtained using data sampled

@@ -14,6 +14,8 @@ date: '2017-03-01'
 publishDate: '2025-09-13T17:29:45.798479Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*Journal of Petroleum Science and Engineering*'
 doi: 10.1016/j.petrol.2016.12.002
 abstract: Anisotropy is prevalent in sedimentary rock masses, such as shale formations

@@ -16,6 +16,9 @@ date: '2025-01-01'
 publishDate: '2025-09-13T17:29:46.038392Z'
 publication_types:
 - paper-conference
+categories:
+- Dynamic Stimulation
+- Hydraulic Fracturing
 doi: https://doi.org/10.56952/ARMA-2025-0219
 abstract: ABSTRACT:. Multistage hydraulic fracturing has revolutionized the oil and
   gas industry, particularly enabling the rapid growth of shale gas production in

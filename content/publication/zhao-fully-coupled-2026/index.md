@@ -8,5 +8,8 @@ authors:
 date: '2026-01-01'
 publication_types:
   - article-journal
+categories:
+  - Dynamic Stimulation
+  - Fracture & Damage Mechanics
 publication: '*Computer Methods in Applied Mechanics and Engineering*'
 ---

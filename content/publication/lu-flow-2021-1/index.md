@@ -9,6 +9,8 @@ date: '2021-11-01'
 publishDate: '2025-09-13T17:29:45.887223Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*ACS Sustainable Chemistry & Engineering*'
 doi: 10.1021/acssuschemeng.1c05628
 abstract: Poor understanding of the flow behavior of granular biomass material poses

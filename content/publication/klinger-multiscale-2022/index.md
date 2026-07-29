@@ -17,6 +17,8 @@ date: '2022-01-01'
 publishDate: '2025-09-13T17:29:45.915740Z'
 publication_types:
 - article-journal
+categories:
+- Granular Materials & Biomass
 publication: '*Frontiers in Energy Research*'
 abstract: One dominant challenge facing the development of biorefineries is achieving
   consistent system throughput with highly variant biomass feedstock quality and handling

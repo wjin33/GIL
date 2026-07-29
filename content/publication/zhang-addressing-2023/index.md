@@ -17,6 +17,8 @@ date: '2023-08-01'
 publishDate: '2025-09-13T17:29:45.969836Z'
 publication_types:
 - paper-conference
+categories:
+- Thermal Energy Storage
 publication: '*OnePetro*'
 doi: 10.2118/215746-MS
 abstract: Abstract. This study aims to evaluate the feasibility of addressing the

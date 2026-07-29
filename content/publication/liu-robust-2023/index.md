@@ -13,6 +13,8 @@ date: '2023-01-01'
 publishDate: '2025-09-13T17:29:45.990858Z'
 publication_types:
 - article-journal
+categories:
+- Fracture & Damage Mechanics
 publication: '*International Journal for Numerical Methods in Engineering*'
 doi: 10.1002/nme.7298
 abstract: Failure of many brittle materials and structures can be modeled using interface-oriented

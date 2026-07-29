@@ -14,6 +14,8 @@ date: '2023-08-01'
 publishDate: '2025-09-13T17:29:45.962057Z'
 publication_types:
 - paper-conference
+categories:
+- Thermal Energy Storage
 publication: '*OnePetro*'
 doi: 10.2118/215750-MS
 abstract: 'Abstract. One of the critical challenges of the green energy transition

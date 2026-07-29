@@ -12,7 +12,7 @@ sections:
       text: |
         GIL develops research software for coupled mechanics, flow, transport, fracture propagation, and accelerated simulation. Each project connects numerical methods to a specific energy or Earth-system challenge.
 
-        {{% cta cta_link="../research/" cta_text="Explore the research" cta_alt_link="../contact/" cta_alt_text="Discuss collaboration" %}}
+        {{% cta cta_link="../research/" cta_text="Explore the research" cta_alt_link="../people/#join" cta_alt_text="Discuss collaboration" %}}
     design:
       columns: '1'
       css_class: gil-page-intro
@@ -69,7 +69,7 @@ sections:
       text: |
         Review the associated publications for model formulation and validation, or contact GIL to discuss research use and collaboration.
 
-        {{% cta cta_link="../publication/" cta_text="Browse publications" cta_alt_link="../contact/" cta_alt_text="Contact GIL" %}}
+        {{% cta cta_link="../publication/" cta_text="Browse publications" cta_alt_link="../people/#join" cta_alt_text="Contact GIL" %}}
     design:
       columns: '1'
       css_class: gil-portfolio-cta

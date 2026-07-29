@@ -22,6 +22,3 @@ main:
   - name: Teaching
     pageRef: /teaching
     weight: 60
-  - name: Join GIL
-    pageRef: /contact
-    weight: 70

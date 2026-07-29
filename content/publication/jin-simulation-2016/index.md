@@ -8,6 +8,8 @@ date: '2016-06-01'
 publishDate: '2025-09-13T17:22:56.246621Z'
 publication_types:
 - paper-conference
+categories:
+- Fracture & Damage Mechanics
 publication: '*Georgia Institute of Technology*'
 abstract: The objective of this work is to simulate mode II multi-scale fracture propagation
   in shale by coupling a continuum anisotropic damage model with a Cohesive Zone Model
