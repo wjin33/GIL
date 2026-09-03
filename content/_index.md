@@ -11,7 +11,7 @@ sections:
       title: |
         Geosystem Innovation Laboratory
       image:
-        filename: welcome2.png
+        filename: welcome2_GIL.png
       text: |
         **Multiscale Mechanics, Transport, and Scientific AI for Energy and Earth Systems**
 
