@@ -7,7 +7,7 @@ first_name: Yanbo
 last_name: Bai
 
 # Flat People page order: Ph.D. students, alphabetical
-people_order: 31
+people_order: 33
 
 # Username (this should match the folder name)
 authors:

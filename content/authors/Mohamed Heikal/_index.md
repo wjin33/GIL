@@ -7,7 +7,7 @@ first_name: Mohamed
 last_name: Heikal
 
 # Flat People page order: Ph.D. students, alphabetical
-people_order: 32
+people_order: 35
 
 # Username (this should match the folder name)
 authors:

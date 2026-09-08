@@ -7,7 +7,7 @@ first_name: Nicolas
 last_name: Cardenas Acevedo
 
 # Flat People page order: Ph.D. students, alphabetical
-people_order: 32
+people_order: 31
 
 # Username (this should match the folder name)
 authors:

@@ -7,7 +7,7 @@ first_name: Rasul
 last_name: Amirov
 
 # Flat People page order: Ph.D. students, alphabetical
-people_order: 30
+people_order: 32
 
 # Username (this should match the folder name)
 authors:
