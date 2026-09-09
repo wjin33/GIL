@@ -12,6 +12,8 @@ date: '2026-01-01'
 publishDate: '2026-09-08T20:38:40.919958Z'
 publication_types:
 - article-journal
+categories:
+- Hydraulic Fracturing
 publication: '*Geothermics*'
 doi: 10.1016/j.geothermics.2026.103827
 links:

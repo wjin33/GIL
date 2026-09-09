@@ -13,6 +13,8 @@ date: '2026-01-01'
 publishDate: '2026-09-08T20:38:40.922394Z'
 publication_types:
 - article-journal
+categories:
+- Dynamic Stimulation
 publication: '*Engineering Geology*'
 doi: 10.1016/j.enggeo.2026.109010
 links:
