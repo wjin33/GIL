@@ -42,7 +42,7 @@ sections:
         - name: Scientific AI
           icon: brain
           icon_pack: fas
-          description: Integrate physics-based simulation and machine learning for efficient prediction, optimization, and risk assessment.
+          description: Accelerate physics-based PDE solvers with GPU computing, learned corrections, and emulators for efficient prediction, optimization, and risk assessment.
     design:
       css_class: gil-research-lens
       background:
@@ -78,7 +78,7 @@ sections:
       subtitle: Earlier programs that continue to inform our methods and publications
       text: |
         These completed and foundational research themes remain available as part of GIL's scholarly record.
-      count: 2
+      count: 3
       filters:
         tag: Foundational Research
       archive:
